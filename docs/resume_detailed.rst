@@ -47,7 +47,7 @@ AT&T Labs (Network and Research)
 
 - **Projects**: Acumos Docs, Community, Security; OpenStack Congress; OPNFV Copper, Models, VES, Releng
 - **Languages**: Python, Java, Bash, R, C, reStructured Text, Go, HTML, CSS, Node.js, JSON, YAML
-- **Technical Areas**: Network Function Virtualization; Cloud; Cloud Native; Deep Learning; Ubuntu; Centos; Metal as a Service (MAAS);  OpenStack installers; OPNFV installers; Rancher; IoT; Raspberry Pi; Containers; Docker; Docker Swarm; Kubernetes; OpenShift; Robot Framework (Automated Testing); Sphinx, reStructuredText, Markdown (Automated Docs); Spring; Flask; KnockoutJS; Git, Gerrit, Jenkins, IRC, Slack, Etherpad, mailing lists, Jira, Confluence wiki, Zoom
+- **Technical Areas**: Network Function Virtualization; Cloud; Cloud Native; Deep Learning; Ubuntu; Centos; Metal as a Service (MAAS);  OpenStack installers; OPNFV installers; Rancher; IoT; Raspberry Pi; Containers; Docker; Docker Swarm; Kubernetes; OpenShift; Robot Framework (Automated Testing); Sphinx, reStructuredText, Markdown, Pandoc (Automated Docs); Spring; Flask; KnockoutJS; Git, Gerrit, Jenkins, IRC, Slack, Etherpad, mailing lists, Jira, Confluence wiki, Zoom
 - **Community**: Grace Hopper Women in Computing Conference: Open Source Track Reviewer 2017, 2018
 - **AT&T Awards**:  AT&T youDeserve Award, 2017 for leadership roles within Open Source projects
 
