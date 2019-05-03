@@ -25,15 +25,18 @@ University of Wisconsin - Milwaukee
 | Bachelor of Arts, 1990
 | Major: History, Modern China and Indochina
 | Minor: Comparative Literature
+| Favorite Classes Other Than History: Archeology, Historicial Statistics, Norse Mythology, Historical Mapping (Geography Dept)
 
 Milwaukee Area Technical College
 ================================
 | Associate of Applied Science, 1997
 | Major: Commercial Photography
 
+I interned at UW-Milwaukee, where I got to shoot sporting events. Go Panthers!
+
 Udacity
 =======
-`Udacity <https://www.udacity.com/>`_ is an online education provider widely recognized by IT
+`Udacity <https://www.udacity.com/>`_ is an online education provider widely recognized by IT.
 
 Full Stack Web Developer Nanodegree
 -----------------------------------
@@ -57,3 +60,4 @@ Projects:
   - `Dog Image Identification <https://github.com/aimeeu/Udacity-AIProgrammingWithPython/tree/master/dog-image-classification-exercise>`_
   - `Flower Classification <https://github.com/aimeeu/Udacity-AIProgrammingWithPython/tree/master/final-project-flower-classification>`_
 
+After completing this nanodegree, I realized that while I find AI fascinating, coding a neural network is tedious and boring.
