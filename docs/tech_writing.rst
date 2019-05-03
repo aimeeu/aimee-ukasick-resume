@@ -98,7 +98,7 @@ I've been the content creator and webmaster for my local dog training club since
 
 Ken - A Life in Pictures
 ------------------------
-Since I was creating photo collages for the funeral, I threw together this memorial `website <https://wiki.acumos.org/display/TSC/Technical+Community+Document>`_ for out-of-state relatives who were unable to attend the service.
+Since I was creating photo collages for the funeral, I threw together this memorial `website <https://cardiganpeke.godaddysites.com/>`_ for out-of-state relatives who were unable to attend the service.
 
 Etherpads
 ---------

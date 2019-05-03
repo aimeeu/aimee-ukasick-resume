@@ -51,7 +51,8 @@ AT&T Labs (Network and Research)
 - **Community**: Grace Hopper Women in Computing Conference: Open Source Track Reviewer 2017, 2018
 - **AT&T Awards**:  AT&T youDeserve Award, 2017 for leadership roles within Open Source projects
 
-Details:
+Details
++++++++
 
 -  **Open Source Strategist**–
    `OpenStack <https://www.openstack.org/>`_,
@@ -129,7 +130,8 @@ Brought experience, leadership, and mentoring to a fledging team comprised of ne
 - **AT&T Awards**:  AT&T youDeserve Award, 2016 for my involvement with the OpenStack community
 
 
-Details:
+Details
++++++++
 
 -  Provided leadership to determine the AT&T OpenStack Community Team's
    infrastructure needs, recommended and drove solutions
@@ -223,7 +225,8 @@ Senior/Lead Developer on a distributed Scrum team comprised of both contractors 
 - **Languages**: Java
 - **Technical Areas**: BPMN.io/Camunda BPM (Business Process Model and Notation); Cassandra; Sonar; Jenkins;  AT&T Event and Error Logging Framework; Camel REST API; Postman; Maven; Apache JMeter; AT&T Consolidated Service Manager Framework; Node.js; Apache Kafka; Rabbit MQ
 
-Details:
+Details
++++++++
 
 -  Open Source Camunda BPM Platform as a Service:
 
@@ -279,7 +282,8 @@ Lead Developer on a small team of developers and DBAs. Identified gaps in softwa
 - **AT&T Awards**:  AT&T IT Award, 2014 for spearheading the MOTS mobile application effort
 
 
-Details:
+Details
++++++++
 
 -  **Assumed Lead Developer role**\ on a team of 3 working on the
    unfinished Architecture Assurance web-enabled application; learned
@@ -396,7 +400,8 @@ Centare Group
 
 **Technical Areas:** ASP.NET, J2EE, Struts, Oracle, SQL Server
 
-Details:
+Details
++++++++
 
 -  **Learned C# on the job**; designed and developed web-enabled
    warehouse inventory applications on a team of four; collaborated with
@@ -421,7 +426,8 @@ Patterns, Continuous Integration
 **Presentation:** *Test-Driven Development with JUnit* (local technical
 meetup)
 
-Details:
+Details
++++++++
 
 -  **Hired for proven aptitude for computer programming;** completed a
    three-month Mainframe Computer Programming curriculum at Compuware’s
