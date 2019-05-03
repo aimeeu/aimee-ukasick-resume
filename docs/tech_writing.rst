@@ -22,18 +22,19 @@ Technical Writing
 I've been writing in one area or another since I was a child - silly poems,
 short stories in grade school, exceedingly bad poetry. In college, my writing
 was done solely to fulfill course assignments. Research, collate, draw
-conclusions backed by evidence and then convice the Professor to support my
-hypothesis was my only goal. After college, I moved to Taiwan. This was before
-email, so I wrote postcards and letters to friends and family detailing my
-adventures.
+conclusions backed by evidence and then sway the Professor to support my
+hypothesis was my only goal.
+
+I skedaddled off to Taiwan after college to :ref:`teach <res-lttc>` English as a Second Language (ESL). This was before
+email, so I wrote postcards and letters to friends and family detailing my adventures. Teaching was very rewarding, and teaching college writing to non-native speakers definitely made me a better writer.
 
 
 After returning from Taiwan and earning a second unmarketable degree, I turned
 to the world of software development. I was hired to do Y2K remediation, but
 since I stunk at mainframe programming, my employer moved me into a development
 group using Smalltalk and Java. From then on, no matter what project I worked
-on, I proofread UI text, wrote Help docs, created business requirements and
-design documentation in addition to designing, coding, and testing software.
+on, I proofread UI text, wrote Help docs, wrote business requirements, and
+created design documentation in addition to designing, coding, and testing software.
 
 Goals
 =====
@@ -42,23 +43,27 @@ developers dislike documenting their code and products.  What's obvious to the
 people who created the product may not be obvious to the people who have to
 install and use the product. Documents often lack detailed instructions, and
 the structure may be a bit higgledy-piggledy. **In my role as a Technical Writer,
-I like to create organization from chaos and clarity from mud.**
+I like to create organization from chaos and clarity from mud.** Furthermore,
+I like to enable developers to be better documentors, whether it's providing them
+with page templates or figuring out how to create automated API documentation from a Swagger file.
 
 Publicly Available Docs
 =======================
 Acumos
 ------
-It all started with a phone call from Jack, my AVP, asking me to take a look at the Acumos project's docs and tell him what was missing. This was two weeks prior to the project's launch as an Open Source project in the Linux Foundation. An automated documentation project had been created using Sphinx, with submodules linking to most of the component repositories. However, developers hadn't been given guidelines on creating documentation: file structure, naming, content, reStructuredText. In addition, most of the end-user documentation was non-existant, and nobody had even started pulling all the docs together into a coherent, user-friendly format. So I hatched a plan:
+It all started with a phone call from JM, my AVP, asking me to take a look at the Acumos project's docs and tell him what was missing. This was two weeks prior to the project's launch as an Open Source project in the Linux Foundation. An automated documentation project had been created using Sphinx, with submodules linking to most of the component repositories. However, developers hadn't been given guidelines on creating documentation: file structure, naming, content, reStructuredText. In addition, most of the end-user documentation was non-existant, and nobody had even started pulling all the docs together into a coherent, user-friendly format. So I hatched a plan:
 
 - Analyze all the docs in the component repos
 - Create detailed Jira tickets for shotcomings
 - Work with developers to resolve issues, many of which resulted from content being created with Word and converted to rST using Pandoc
-- Learn Sphinx
+- Brush up on Sphinx
 - Move all end-user docs to the Docs project so I would have merge control
 - Create and/or edit the end-user docs, add screen shots, clarify instructions
 - Create and organize the main docs site (docs.acumos.org)
 
-I had the part-time help of one person reviewing the component docs, but the rest was up to me. I put in two 70-hr weeks getting the automated documentation and the wiki ready for the project's public launch at the Open Networking Summit in 2018. I continued to be involved with Acumos until 1/2019, when I was "surplussed" for being located outside of 10 metro areas.
+I had the part-time help of one person reviewing the component docs, but the rest was up to me. I put in two 70-hr weeks getting the automated documentation and the wiki ready for the project's public launch at the Open Networking Summit in 2018.
+
+I took up the role of Docs PTL for the first release of Acumos in December, 2018.
 
 My duties included:
 
@@ -79,7 +84,7 @@ Examples from the Acumos Documentation:
 - `Portal and Marketplace User Guide <https://docs.acumos.org/en/athena/AcumosUser/portal-user/index.html>`_
 - `Portal and Marketplace Publisher Guide <https://docs.acumos.org/en/athena/AcumosUser/portal-publisher/index.html>`_
 
-Before I left, I moved the end-user docs to their respective component repositories so Acumos could function without a Docs PTL.
+A change in employment circumstances led to my resignation as Docs PTL. Before I left, I moved the end-user docs to their respective component repositories so Acumos could function without a Docs PTL.
 
 Items I wish I had been able to work on before I left:
 
@@ -95,7 +100,7 @@ I was assigned to work on OPNFV at the same time I was working on OpenStack Cong
 
 OpenStack Congress
 ------------------
-In 2016 I volunteered to contribute to the OpenStack Congress project. One of the best ways to learn an Open Source project is to contribute to the documentation as well as doing bug fixes. Unfortunately I was only able to commit minor docs fixes before being pulled off the project.
+In 2016 I volunteered to contribute to the OpenStack Congress project. One of the best ways to learn an Open Source project is to contribute to the documentation as well as doing bug fixes. In addition to minor docs patches, I was appointed the Cross-Project Docs Liaison. Unfortunately I was pulled off the project before I could excel in that role.
 
 Personal Project Documentation
 ------------------------------
@@ -129,11 +134,11 @@ Sampling of Topics:
 
 Not Publicly Available Docs
 ===========================
-Much of the technical writing I've done is not publicly available - internal requirements docs, design docs, help system docs.
+Much of the technical writing I've done is not publicly available - internal requirements, architecture and design, help system content.
 
 From 2017-2019 I really enjoyed assignments from my AVP. It always started with a phone call.... JM didn't have time to look into something, so he asked me to do the research and write up my findings. I did Proofs of Concept, gap analysis, and pure "what is this and how does it work" research.
 
-- Researched the Moby project, its relation to Docker Enterprise, and whether it was cost effective to build or buy
+- Researched the Moby project, its relation to Docker Enterprise, and whether it was cost effective to build or buy an Edge Cloud/IoT solution
 - Cloud Native POCs comparing Apcera, RedHat OpenShift, and Docker Enterprise Edition, which included ability to run across both AMD and ARM hardware
 - Researched how to deploy IoT-like hardware and images to an Edge Cloud and then push OSs to the hardware; this included setting up and configuring Raspberry PI boards into a Docker Swarm cluster, determining whether we could push a custom OS that I built with LinuxKit to the machines
 

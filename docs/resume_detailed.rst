@@ -38,6 +38,8 @@ The Detailed Resume
 EXPERIENCE
 ==========
 
+.. _res-opensourcelead:
+
 AT&T Labs (Network and Research)
 --------------------------------
 **Principal System Engineer – Open Source Lead, 10/2016 - 3/2019**
@@ -116,6 +118,8 @@ Details
       use; installed and configured Ubuntu and Centos OSs from both
       onsite and remote locations;
    -  Evaluated lab management and security software
+
+.. _res-osct:
 
 AT&T Integrated Cloud - OpenStack Community Team
 ------------------------------------------------
@@ -214,6 +218,8 @@ Details
    commitment to Open Source and my involvement in the Women of
    OpenStack**
 
+.. _res-middleware:
+
 AT&T Technology Development - Middleware Solutions and Service Engineering
 --------------------------------------------------------------------------
 
@@ -269,6 +275,8 @@ Details
       documentation for accessing the Camunda REST API via Camel routes
    -  Continual testing of new Maven archetype releases; found and fixed
       issues
+
+.. _res-techgov:
 
 AT&T Technology Development - Technology Governance
 ---------------------------------------------------
@@ -392,6 +400,8 @@ Details
 -  Attended No Fluff Just Stuff 3-day **software development
    symposiums** in 2004, 2005
 
+.. _res-centare:
+
 Centare Group
 -------------
 **Software Developer (Consultant), 2001-2003**
@@ -411,6 +421,7 @@ Details
    identified gaps in the development process and drove solutions
 -  Attended No Fluff Just Stuff 3-day software development symposiums
 
+.. _res-compuware:
 
 Compuware Corporation
 ---------------------
@@ -445,6 +456,7 @@ Details
 -  Strong proponent and user of Open Source libraries and software
 -  **Debugged Java Development Kit** and filed bug reports
 
+.. _res-lttc:
 
 The Language Training and Testing Center, Taipei, Taiwan, ROC
 -------------------------------------------------------------

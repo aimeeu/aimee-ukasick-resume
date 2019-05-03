@@ -29,5 +29,12 @@ Computer Science wasn't a subject I studied in college. Sure, I took Calculus an
 
 Compuware
 ---------
-The main project I worked on involved reading utility meters over the WAN and was funded by an external startup. The team had four developers doing C and C++, two tech writers, and 3-4 Java developers. The Java developers worked on software for field technicians.
+The main project I worked on involved reading utility meters over the WAN and was funded by an external startup. The team had four developers doing C and C++, two tech writers, and 3-4 Java developers. The Java developers worked on software for field technicians, with a Java Swing UI. It was a great group of people, and I learned a lot. The biggest argument we developers had was where to put the curly braces in our code. We were on the bleeding edge - continuous integration, pair programming, and Agile complete with sticky notes stuck to a conference room wall. Ward Cunningham, Kent Beck, and Martin Fowler were worshipped at an almost unhealthy level. Lots of camaraderie, ribbing, and practical jokes. After a couple of years I found myself in a lead position on the project, mentoring new college hires. View the nitty gritty details in the :ref:`res-compuware` section of my resume. Sadly, all good things must come to an end. As the project funding was reduced, so was the staffing. I decided to move on to another consulting company where some friends worked.
 
+Centare
+-------
+Out of the frying pan and into the fire. My first assignment was working on an order and inventory system being written in C#. So I learned C# on the job and spent an inordinate amount of time clarifying requirements. Truthfully it was not an enjoyable :ref:`stint <res-centare>`. The next assignment was equally odious: working on a financial system for a hedge fund company located in a moldy office building. At least the office pranks were prime.
+
+The Reach Out and Touch Someone Years
+=====================================
+I had had enough of consulting and wanted a steady development job in a single location. My brother was working for AT&T Technology Development by this time, so he secured me an interivew with the hiring manager. MP wanted an experienced developer to bring good software development practices to his group, and I fit the bill. Years later, MP told me what sealed the deal was that when asked to explain Struts, I drew pictures on the whiteboard while explaining Model-View-Controller architecture in terms an old mainframer could understand. 
