@@ -102,7 +102,7 @@ html_theme = 'sphinx_rtd_theme'
 # 2980b9 is the blue used for Edit on GitHub
 html_theme_options = {
     'prev_next_buttons_location': 'both',
-    'style_nav_header_background': '#9b59b6'    
+    'style_nav_header_background': '#2980b9'    
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
