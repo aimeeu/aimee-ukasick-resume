@@ -1,2 +1,8 @@
-Sphinx==1.8.5
+tox
+Sphinx==2.0.1
+sphinx_rtd_theme==0.4.3
+doc8
+docutils
+setuptools
+six
 
