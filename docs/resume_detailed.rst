@@ -40,7 +40,7 @@ EXPERIENCE
 
 AT&T Labs (Network and Research)
 --------------------------------
-**Principal System Engineer – Open Source Lead, 10/2106 - 3/2019**
+**Principal System Engineer – Open Source Lead, 10/2016 - 3/2019**
 
 **Open Source Strategist and Engagement Expert**: set priority and strategy; forged external relationships within `OpenStack <https://www.openstack.org/>`_, `OPNFV <https://www.opnfv.org/>`_, `Cloud Native Computing Foundation <https://www.cncf.io/>`_, and
 `Acumos <https://www.acumos.org/>`_  communities to raise AT&T’s presence; represented AT&T at Open Source events; drove AT&T’s agenda through active participation in working groups; developed requirements to address business needs and spearheaded solutions within Open Source communities; developed, tested, and maintained Open Source software components in roles from Contributor  to Project Team Lead;  drove proofs of concept to implementation; identified project gaps and drove solutions; created, edited, and curated automated documentation; created and organized wiki content; empowered developers with wiki and Jira plugins; established best practices for Open Source engagement; created Technical Project Charter; organized and facilitated Technical Steering Committee meetings; mentored contributors new to Open Source projects; validated code licensing and security scans; configured and managed a small server lab.

@@ -23,7 +23,7 @@
 
 Aimee Ukasick
 =============
-Open Source Advocate | Tech Writer | Software Developer | Community Support
+Open Source Advocate | Tech Writer | Software Developer | Open Source Community Supporter
 
 Collaborating Globally | Bridging Gaps | Spearheading Change | Driving Success in an Open Source World
 
@@ -31,7 +31,7 @@ Collaborating Globally | Bridging Gaps | Spearheading Change | Driving Success i
 |EmailLink|_  |LinkedInLink|_  |GithubLink|_  |TwitterLink|_
 
 
-Individual member of the `Linux Foundation <https://www.linuxfoundation.org/>`_, `OpenStack Foundation <https://www.openstack.org/foundation/>`_, and `Open Source Initiative <https://opensource.org/>`_.
+Individual member of the `Open Source Initiative <https://opensource.org/>`_, the `Linux Foundation <https://www.linuxfoundation.org/>`_, and the `OpenStack Foundation <https://www.openstack.org/foundation/>`_.
 
 .. toctree::
    :maxdepth: 1
@@ -43,7 +43,7 @@ Individual member of the `Linux Foundation <https://www.linuxfoundation.org/>`_,
 
 .. toctree::
    :maxdepth: 1
-   :caption: Me Me Me:
+   :caption: Me Me Me It's All About ME:
 
    tech_writing.rst
    software_dev.rst

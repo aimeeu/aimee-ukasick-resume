@@ -19,13 +19,30 @@
 =================
 Technical Writing
 =================
-I've been writing in one area or another since I was a child - silly poems, short stories in grade school, exceedingly bad poetry. In college, my writing was done solely to fulfill course assignments. Research, collate, draw conclusions backed by evidence and then convice the Professor to support my hypothesis was my only goal. After college, I moved to Taiwan. This was before email, so I wrote postcards and letters to friends and family detailing my adventures.
+I've been writing in one area or another since I was a child - silly poems,
+short stories in grade school, exceedingly bad poetry. In college, my writing
+was done solely to fulfill course assignments. Research, collate, draw
+conclusions backed by evidence and then convice the Professor to support my
+hypothesis was my only goal. After college, I moved to Taiwan. This was before
+email, so I wrote postcards and letters to friends and family detailing my
+adventures.
 
-After returning from Taiwan and earning a second unmarketable degree, I turned to the world of software development. I was hired to do Y2K remediation, but since I stunk at mainframe programming, my employer moved me into a development group using Smalltalk and Java. From then on, no matter what project I worked on, I proofread UI text, wrote Help docs, created business requirements and design documentation in addition to designing, coding, and testing software.
+
+After returning from Taiwan and earning a second unmarketable degree, I turned
+to the world of software development. I was hired to do Y2K remediation, but
+since I stunk at mainframe programming, my employer moved me into a development
+group using Smalltalk and Java. From then on, no matter what project I worked
+on, I proofread UI text, wrote Help docs, created business requirements and
+design documentation in addition to designing, coding, and testing software.
 
 Goals
 =====
-I've been developing software since 1997, so I know that the vast majority of developers dislike documenting their code and products.  What's obvious to the people who created the product may not be obvious to the people who have to install and use the product. Documents often lack detailed instructions, and the structure may be a bit higgledy-piggledy. In my role as a Technical Writer, I like to create organization from chaos and clarity from mud.
+I've been developing software since 1997, so I know that the vast majority of
+developers dislike documenting their code and products.  What's obvious to the
+people who created the product may not be obvious to the people who have to
+install and use the product. Documents often lack detailed instructions, and
+the structure may be a bit higgledy-piggledy. **In my role as a Technical Writer,
+I like to create organization from chaos and clarity from mud.**
 
 Publicly Available Docs
 =======================
@@ -72,7 +89,7 @@ Items I wish I had been able to work on before I left:
 
 OPNFV
 -----
-I was assigned to work on OPNFV at the same time I was working on OpenStack Congress (2016-2017). I contributed how-to pages and updates to the Copper, JOID, Models, VES, Developer and Infrastructure spaces as well as updating rST files for automated documentation. An example:
+I was assigned to work on OPNFV at the same time I was working on OpenStack Congress (2016-2017). I contributed how-to pages and updates to the Copper, JOID, Models, VES, Developer and Infrastructure spaces as well as updating existing project docs written in rST. An example from the wiki:
 
 - `DevStack in a VM Notes <https://wiki.opnfv.org/display/copper/DevStack+in+a+VM+Notes>`_
 
@@ -82,7 +99,7 @@ In 2016 I volunteered to contribute to the OpenStack Congress project. One of th
 
 Personal Project Documentation
 ------------------------------
-Documentation created for Udacity nanodegree projects:
+Documentation created for Udacity nanodegree assignments:
 
 - `Movie Trailer <https://github.com/aimeeu/Udacity-FullStackWebDeveloper/tree/master/Project01-MovieTrailerSite>`_: Markdown with headers and code snippets
 -  `Portfolio Page <https://github.com/aimeeu/Udacity-FullStackWebDeveloper/tree/master/Project02-PortfolioSite>`_:  reStructuredText with images
@@ -104,7 +121,7 @@ Etherpads
 ---------
 Quite a bit of my job at AT&T Labs involved figuring out how Open Source products worked and informally documenting my findings for my supervisor. I used etherpads extensively to take notes, record step-by-step procedures, and the dreaded "it's not working the way it's supposed to be working" situations. The etherpads are on public servers and still accessible.
 
-Topics:
+Sampling of Topics:
 
 - Cheatsheet for contributing patches to OpenStack, OPNFV, and Acumos
 - Installation notes for various projects
@@ -114,7 +131,7 @@ Not Publicly Available Docs
 ===========================
 Much of the technical writing I've done is not publicly available - internal requirements docs, design docs, help system docs.
 
-From 2017-2019 I really enjoyed assignments from my AVP. It always started with a phone call.... Jack didn't have time to look into something, so he asked me to do it and write up my findings. I did Proofs of Concept, gap analysis, and pure "what is this and how does it work" research.
+From 2017-2019 I really enjoyed assignments from my AVP. It always started with a phone call.... JM didn't have time to look into something, so he asked me to do the research and write up my findings. I did Proofs of Concept, gap analysis, and pure "what is this and how does it work" research.
 
 - Researched the Moby project, its relation to Docker Enterprise, and whether it was cost effective to build or buy
 - Cloud Native POCs comparing Apcera, RedHat OpenShift, and Docker Enterprise Edition, which included ability to run across both AMD and ARM hardware

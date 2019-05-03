@@ -20,27 +20,13 @@
 Education
 =========
 
-University of Wisconsin - Milwaukee
-=====================================
-| Bachelor of Arts, 1990
-| Major: History, Modern China and Indochina
-| Minor: Comparative Literature
-| Favorite Classes Other Than History: Archeology, Historicial Statistics, Norse Mythology, Historical Mapping (Geography Dept)
-
-Milwaukee Area Technical College
-================================
-| Associate of Applied Science, 1997
-| Major: Commercial Photography
-
-I interned at UW-Milwaukee, where I got to shoot sporting events. Go Panthers!
-
 Udacity
 =======
-`Udacity <https://www.udacity.com/>`_ is an online education provider widely recognized by IT.
+`Udacity <https://www.udacity.com/>`_ is an online education provider widely recognized by IT. Nanodegree course material is developed in conjunction with companies such as Google, IBM, AWS, and Lyft.
 
 Full Stack Web Developer Nanodegree
 -----------------------------------
-| 12/2108
+| 12/2018
 | Development projects using Python3, Flask libraries, HTML5, CSS, KnockoutJS. Please see project READMEs for details.
 
 Projects:
@@ -52,12 +38,31 @@ Projects:
 #.  `Neighborhood Map <https://github.com/aimeeu/Udacity-FullStackWebDeveloper/tree/master/Project05-NeighborhoodMap>`_: single-page application featuring a map of a neighborhood. Functionality includes map markers to identify locations, a search function to easily discover these locations, and a listview to support simple browsing of all locations; uses Google Maps and Foursquare APIs; docs in reStructuredText
 #.  `Linux Server Config <https://github.com/aimeeu/Udacity-FullStackWebDeveloper/tree/master/Project06-LinuxServerConfig>`_: deploy Item Catalog in an AWS Lightsail environment; docs in Markdown
 
-AI Programming with Python Nanodegree, 6/2018
----------------------------------------------
-Focus on neural networks and the foundations of AI: the programming tools (Python, NumPy, PyTorch), the math (calculus and linear algebra), and the key techniques of neural networks (gradient descent and backpropagation).
+AI Programming with Python Nanodegree
+-------------------------------------
+| 6/2018
+| This course focused on neural networks and the foundations of AI: the programming tools (Python, NumPy, PyTorch), the math (calculus and linear algebra), and the key techniques of neural networks (gradient descent and backpropagation).
 
 Projects:
   - `Dog Image Identification <https://github.com/aimeeu/Udacity-AIProgrammingWithPython/tree/master/dog-image-classification-exercise>`_
   - `Flower Classification <https://github.com/aimeeu/Udacity-AIProgrammingWithPython/tree/master/final-project-flower-classification>`_
 
 After completing this nanodegree, I realized that while I find AI fascinating, coding a neural network is tedious and boring.
+
+
+Milwaukee Area Technical College
+================================
+| Associate of Applied Science (AAS)
+| Major: Commercial Photography
+
+I interned at UW-Milwaukee, where I got to shoot sporting events. Go Panthers!
+
+
+University of Wisconsin - Milwaukee
+=====================================
+| Bachelor of Arts (BA)
+| Major: History, Modern China and Indochina
+| Minor: Comparative Literature
+| Favorite Classes Other Than History: Archeology, Historicial Statistics (Math!), Norse Mythology, Historical Mapping (Geography Dept)
+
+
