@@ -35,17 +35,22 @@ Individual member of the `Linux Foundation <https://www.linuxfoundation.org/>`_,
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: The Resumes:
 
    the2pager.rst
    resume_detailed.rst
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Me Me Me:
+
    tech_writing.rst
    software_dev.rst
    education.rst
 
 
-
-Indices and tables
+Indices and Tables
 ==================
 
 * :ref:`genindex`
