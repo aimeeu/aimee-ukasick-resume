@@ -50,11 +50,9 @@ Individual member of the `Open Source Initiative <https://opensource.org/>`_, th
    education.rst
 
 
-Indices and Tables
-==================
+Site Tools
+==========
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
 

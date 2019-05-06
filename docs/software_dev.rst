@@ -28,7 +28,7 @@ Server-side, test-driven development
 
 Programming Languages
 =====================
-| Comfortable Working In: Java, Python, SQL
+| Comfortable Working In: Java (advanced), Python (beginner), SQL
 | Learning: Node.js
 | Completed Tutorials In: R, Go
 | Forgotten But Could Resurrect: Objective-C, C#, VB.NET, Smalltalk, C, C++

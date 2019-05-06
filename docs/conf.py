@@ -33,6 +33,8 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+# theme imports
+import sphinx_bootstrap_theme
 
 # -- Project information -----------------------------------------------------
 
@@ -55,8 +57,9 @@ release = '1.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+# sphinxjp.themes.basicstrap theme
 extensions = [
-    'sphinx.ext.ifconfig',
+    'sphinx.ext.ifconfig'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -92,17 +95,46 @@ pygments_style = None
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_rtd_theme'
+# html_theme = 'better'
+
+
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
+
+# sphinx_rtd_theme - mobile friendly
 # 9b59b6 is the light purple color in the navigation
 # 2980b9 is the blue used for Edit on GitHub
-html_theme_options = {
-    'prev_next_buttons_location': 'both',
-    'style_nav_header_background': '#2980b9'    
+# html_theme_options = {
+#     'prev_next_buttons_location': 'both',
+#     'style_nav_header_background': '#2980b9'    
+# }
+
+# Activate the theme.
+html_theme = 'bootstrap'
+html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
+#html_logo='_static/icons/alu.png'
+html_theme_options={
+    'navbar_title': "Aimee Ukasick",
+     # Bootswatch (http://bootswatch.com/) theme.
+    #
+    # Options are nothing (default) or the name of a valid theme
+    # such as "cosmo" or "sandstone".
+    #
+    # The set of valid themes depend on the version of Bootstrap
+    # that's used (the next config option).
+    #
+    # Currently, the supported themes are:
+    # - Bootstrap 2: https://bootswatch.com/2
+    # - Bootstrap 3: https://bootswatch.com/3
+    'bootswatch_theme': "simplex",
+
+    # Choose Bootstrap version.
+    # Values: "3" (default) or "2" (in quotes)
+    'bootstrap_version': "3",
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,

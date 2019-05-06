@@ -46,13 +46,15 @@ the structure may be a bit higgledy-piggledy.
 
 - I like to organize chaos
 - I like to bring clarity to muddy waters
-- I like to enable developers to be better documentors, whether it's providing them
-with page templates or figuring out how to create automated API documentation from a Swagger file.
+- I like to enable developers to be better documentors, whether it's providing them with page templates or figuring out how to create automated API documentation from a Swagger file
 
 Publicly Available Docs
 =======================
 Acumos
 ------
+| **Markup**: reStructuredText
+| **Tools**: Sphinx, Pandoc
+
 It all started with a phone call from JM, my AVP, asking me to take a look at the Acumos project's docs and tell him what was missing. This was two weeks prior to the project's launch as an Open Source project in the Linux Foundation. An automated documentation project had been created using Sphinx, with submodules linking to most of the component repositories. However, developers hadn't been given guidelines on creating documentation: file structure, naming, content, reStructuredText. In addition, most of the end-user documentation was non-existent, and nobody had even started pulling all the docs together into a coherent, user-friendly format. So I hatched a plan:
 
 - Analyze all the docs in the component repos
@@ -97,16 +99,22 @@ Items I wish I had been able to work on before I left:
 
 OPNFV
 -----
+**Markup**: reStructuredText
+
 I was assigned to work on OPNFV at the same time I was working on OpenStack Congress (2016-2017). I contributed how-to pages and updates to the Copper, JOID, Models, VES, Developer and Infrastructure spaces as well as updating existing project docs written in rST. An example from the wiki:
 
 - `DevStack in a VM Notes <https://wiki.opnfv.org/display/copper/DevStack+in+a+VM+Notes>`_
 
 OpenStack Congress
 ------------------
+**Markup**: reStructuredText
+
 In 2016 I volunteered to contribute to the OpenStack Congress project. One of the best ways to learn an Open Source project is to contribute to the documentation as well as doing bug fixes. In addition to minor docs patches, I was appointed the Cross-Project Docs Liaison. Unfortunately I was pulled off the project before I could excel in that role.
 
 Personal Project Documentation
 ------------------------------
+**Markup**: reStructuredText, Markdown
+
 Documentation created for Udacity nanodegree assignments:
 
 - `Movie Trailer <https://github.com/aimeeu/Udacity-FullStackWebDeveloper/tree/master/Project01-MovieTrailerSite>`_: Markdown with headers and code snippets
@@ -161,9 +169,10 @@ Content Tools
 =============
 My OS of choice is Ubuntu Linux because it's FOSS and the most developer-friendly OS with which I've interacted.
 
-- rST: `ReText <https://github.com/retext-project/retext>`_, `Sphinx <http://sphinx-doc.org/>`_
+- rST Editor: `ReText <https://github.com/retext-project/retext>`_
 - Markdown Editors: `Atom <https://atom.io/>`_, `Visual Studio Code <https://code.visualstudio.com/>`_, `Typora <https://typora.io/>`_
 - Screenshots: `Shutter <https://launchpad.net/shutter>`_
+- Automation: `Sphinx <http://sphinx-doc.org/>`_
 
 Pet Peeves
 ==========
