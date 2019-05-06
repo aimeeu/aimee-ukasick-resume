@@ -25,7 +25,7 @@ The Detailed Resume
 -  Proven ability to proactively determine course, synthesize common themes across technical areas, pinch hit in a variety of situations, implement change, exceed targets, create order from chaos, clarify mud, and drive results while working with minimal guidance both independently and leading a team (local and distributed).
 -  Possesses a combination of analytical and leadership skills, with
    excellent organizational and prioritization abilities
--  Strong advocate for Open Source projects and ommunities; active contributor in roles from contributor to Project Team Lead
+-  Strong advocate for Open Source projects and communities; active contributor in roles from contributor to Project Team Lead
 -  Familiarity with or expertise in collaboration and development tools
    commonly used by Open Source projects: Git, Gerrit, Jenkins, IRC,
    Slack, Etherpad, mailing lists, Jira, Confluence wiki, Zoom, WebEx
@@ -91,11 +91,10 @@ Details
          community-centered content; ongoing content creation and
          curation
       -  **Documentation Project Team Lead** responsible for automated
-         documentation **tools; creation, editing, curation** of content
+         documentation tools; creation, editing, curation of content
          on docs.acumos.org; create guides on how to do docs; mentor
          developers; created IRC channel; create code patches; review
-         code; branch code; active participation in the **LF
-         Cross-Community Docs WG**
+         code; branch code; active participation in the **LF-N Cross-Community Docs WG**
       -  Security Working Group participation, facilitate meetings, take
          IRC notes; evaluated code scanning tools
       -  TSC Meetings: created initial meeting agendas;
@@ -132,7 +131,7 @@ Brought experience, leadership, and mentoring to a fledging team comprised of ne
 - **Projects**: OpenStack Murano, Cinder, Congress, Docs
 - **Languages**: Python, ReStructured Text
 - **Technical Areas**: Cloud; Ubuntu; OpenStack; DevStack; Git; Gerrit; Launchpad; Jira
-- **Community**: Presentation: PTLs and Cores: We Aren’t as Scary as You Think, OpenStack Summit, Barcelona, Spain
+- **Community**: Presentation: *PTLs and Cores: We Aren’t as Scary as You Think*, OpenStack Summit, Barcelona, Spain
 - **AT&T Awards**:  AT&T youDeserve Award, 2016 for my involvement with the OpenStack community
 
 .. _res-osct-details:
@@ -159,7 +158,7 @@ Details
    -  **Proof of Concept**: **Ubuntu desktop for development**;
       evaluated Ubuntu laptop with a Hosted Virtual Desktop as potential
       development environment; identified software and security issues
-      (VPN, etc) and resolutions; **Ongoing collaboration**\ on the
+      (VPN, etc) and resolutions; Ongoing collaboration on the
       internal Native Linux laptop initiative
    -  **Proof of Concept**: **ZNC**; research and local installation of
       ZNC, an Open Source IRC proxy; collaborated with 2 team members on
@@ -187,8 +186,7 @@ Details
       Functional Testing Blueprint
    -  **Became an active contributor to the OpenStack Congress project**
       by reviewing code, submitting patches, collaborating on blueprint
-      implementation, and attending weekly team meetings; currently
-      working on items for the Newton release
+      implementation, and attending weekly team meetings
    -  **Within three months, rose to the top 20 AT&T employees in number
       of commits and in the top 10 among AT&T employees in number of
       code reviews for the OpenStack Newton release**
@@ -201,9 +199,9 @@ Details
          meetings as well as WOO sponsored events at the OpenStack
          Summit in Austin
       -  **Proposed a WOO-sponsored presentation** idea at the WOO
-         working breakfast in Austin; **collaborated with Jessica
+         working breakfast in Austin; collaborated with Jessica
          Murillo (IBM) to drive the idea forward and submit for
-         Barcelona Summit**
+         Barcelona Summit
       -  **Volunteered to be on the Mentoring Committee**; proposed and
          implemented changes to the Mentoring wiki page to provide
          improved organization and clarification; helped run Mentoring
@@ -262,12 +260,12 @@ Details
    -  **Proof of Concept**: `BPMN.IO <http://bpmn.io/>`__: research on
       **Open Source** BPM web-based modeler built with bpmn-js; learned
       Node.js and an internally developed Node Service Container;
-      **analyzed**\ `BPMN.IO <http://bpmn.io/>`__\ **open source code
+      analyzed `BPMN.IO <http://bpmn.io/>`__ open source code
       base and decided best path forward**; created WAR for deployment
-   -  **Proof of Concept**: **Implement throttling of API calls using
-      the AT&T Consolidated Service Manager Framework**; wrote load
+   -  **Proof of Concept**: Implement throttling of API calls using
+      the AT&T Consolidated Service Manager Framework; wrote load
       tests using Apache JMeter; incorporated PoC into Maven archetype
-   -  **Investigated features**\ of new Camunda platform release and
+   -  **Investigated features** of new Camunda platform release and
       presented to team
    -  **Proof of Concept**: AT&T Event and Error Logging Framework,
       researched, incorporated into Maven archetype, presented findings
@@ -299,11 +297,11 @@ Lead Developer on a small team of developers and DBAs. Identified gaps in softwa
 Details
 +++++++
 
--  **Assumed Lead Developer role**\ on a team of 3 working on the
+-  **Assumed Lead Developer role** on a team of 3 working on the
    unfinished Architecture Assurance web-enabled application; learned
    VB.NET on the job while mentoring the less-experienced developers and
-   **drove the completion of the application within the desired time
-   frame**
+   drove the completion of the application within the desired time
+   frame
 -  **Identified gaps in software development practices and drove
    solutions**; incorporated Version Control, Test-Driven Development,
    Pair Programming, Code Reviews, Agile Scrum, Automated Testing,
@@ -313,16 +311,16 @@ Details
 
    -  **Determined future direction** -- what frameworks needed to be
       upgraded,etc;
-   -  **Created training materials**\ for less experienced developers;
+   -  **Created training materials** for less experienced developers;
       mentored developers new to Java
    -  **Created project infrastructure**, created user stories; assigned
       user stories, followed up on progress
-   -  **Communicated progress**\ and managed the client’s expectations
+   -  **Communicated progress** and managed the client’s expectations
 
 -  **Evaluated Open Source software**; Subject Matter Expert for open
    source products: JUnit and Log4J
 -  **Architect, Lead Developer, Technology Strategy and Standards
-   Exceptions web-enabled application;**\ governance process and
+   Exceptions web-enabled application:** governance process and
    application to request permission to use software that is not
    standard within the AT&T Enterprise, as well as to request exceptions
    to defined Policies, Practices, and Strategies
@@ -334,8 +332,8 @@ Details
       later to J2EE
    -  Evaluated and implemented CruiseControl.NET (Continuous
       Integration Server) for the VB.NET application
-   -  **Architecture**: **Provided strategic direction and long-term
-      architectural recommendations**, such as rewriting the application
+   -  **Architecture**: Provided strategic direction and long-term
+      architectural recommendations, such as rewriting the application
       in Java and incorporating business process and rules engines;
       collaborated with team to evaluate **Open Source** J2EE frameworks
       and decided on the JBoss Seam Framework, which incorporated
@@ -386,7 +384,7 @@ Details
 -  **Servers**: configured and administered JBoss application servers;
    backup system administrator for the team's 3 Windows servers
    (sandbox, prototype, development) that resided in an onsite lab
--  **Mechanized Operations Tracking System Mobile and API; c**\ reated a
+-  **Mechanized Operations Tracking System Mobile and API**: created a
    mobile application that provided a limited view into the existing
    application for tracking internally developed software
 
@@ -419,7 +417,7 @@ Centare Group
 Details
 +++++++
 
--  **Learned C# on the job**; designed and developed web-enabled
+-  **Learned C# on the job**: designed and developed web-enabled
    warehouse inventory applications on a team of four; collaborated with
    client developers located in another city; evaluated and chose a C#
    **Open Source** unit testing framework
