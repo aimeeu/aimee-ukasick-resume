@@ -63,6 +63,7 @@ University of Wisconsin - Milwaukee
 | Bachelor of Arts (BA)
 | Major: History, Modern China and Indochina
 | Minor: Comparative Literature
-| Favorite Classes Other Than History: Archeology, Historicial Statistics (Math!), Norse Mythology, Historical Mapping (Geography Dept)
+| Languages: German, Chinese
+| Favorite Classes Other Than History: Archeology, Historical Statistics (Math!), Norse Mythology, Historical Mapping (Geography!)
 
 
