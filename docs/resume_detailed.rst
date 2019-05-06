@@ -22,7 +22,7 @@ The Detailed Resume
 
 -  Highly motivated and successful self-starter with software
    development and technical writing experience in a variety of languages and roles
--  Proven ability to proactively determine course, synthesize common themes across technical areas, pinch hit in a variety of situations, implement change, exceed targets, create order from chaos, create clarity from mud, and drive results while working with minimal guidance both independently and leading a team (local and distributed).
+-  Proven ability to proactively determine course, synthesize common themes across technical areas, pinch hit in a variety of situations, implement change, exceed targets, create order from chaos, clarify mud, and drive results while working with minimal guidance both independently and leading a team (local and distributed).
 -  Possesses a combination of analytical and leadership skills, with
    excellent organizational and prioritization abilities
 -  Strong advocate for Open Source projects and ommunities; active contributor in roles from contributor to Project Team Lead
@@ -512,7 +512,7 @@ planning and booking travel between working holidays and home stays
 
 COMMUNITY INVOLVEMENT
 =====================
-| K-9 Obedience Training Club of Menomonee Falls
+| `K-9 Obedience Training Club of Menomonee Falls <http://www.k9otc.com>`_
 | Website Administrator, Instructor
 | 1999-Present
 
