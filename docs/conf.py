@@ -33,13 +33,17 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+from datetime import datetime
+
 # theme imports
-import sphinx_bootstrap_theme
+# import sphinx_bootstrap_theme
+
 
 # -- Project information -----------------------------------------------------
 
-project = 'Aimee Ukasick'
-copyright = '2019, Aimee Ukasick. Licensed under CC BY 4.0.'
+project = u'Aimee Ukasick'
+year = datetime.now().year
+copyright = u'%d, Aimee Ukasick. Licensed under CC BY 4.0' % year
 author = 'Aimee Ukasick. Licensed under CC BY 4.0.'
 
 # The short X.Y version
@@ -57,7 +61,6 @@ release = '1.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-# sphinxjp.themes.basicstrap theme
 extensions = [
     'sphinx.ext.ifconfig'
 ]
@@ -95,10 +98,59 @@ pygments_style = None
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-# html_theme = 'sphinx_rtd_theme'
-# html_theme = 'better'
+html_short_title = "Home"
 
 
+
+from better import better_theme_path
+html_theme_path = [better_theme_path]
+html_theme = 'better'
+html_theme_options = {
+  # show sidebar on the right instead of on the left
+  'rightsidebar': False,
+
+  # inline CSS to insert into the page if you're too lazy to make a
+  # separate file
+  'inlinecss': '',
+
+  # CSS files to include after all other CSS files
+  # (refer to by relative path from conf.py directory, or link to a
+  # remote file)
+  'cssfiles': ['_static/my_style.css'],  # default is empty list
+
+  # show a big text header with the value of html_title
+  'showheader': False,
+
+  # show the breadcrumbs and index|next|previous links at the top of
+  # the page
+  'showrelbartop': True,
+  # same for bottom of the page
+  'showrelbarbottom': True,
+
+  # show the self-serving link in the footer
+  'linktotheme': True,
+
+  # width of the sidebar. page width is determined by a CSS rule.
+  # I prefer to define things in rem because it scales with the
+  # global font size rather than pixels or the local font size.
+  'sidebarwidth': '15rem',
+
+  # color of all body text
+  'textcolor': '#000000',
+
+  # color of all headings (<h1> tags); defaults to the value of
+  # textcolor, which is why it's defined here at all.
+  'headtextcolor': '#5900b3', # dark purple
+  #'headtextcolor': '#e62e00', #dark orange
+
+  # color of text in the footer, including links; defaults to the
+  # value of textcolor
+  'footertextcolor': '#400080',
+
+}
+html_sidebars = {
+    '**': ['localtoc.html', 'sourcelink.html', 'searchbox.html'],
+}
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -106,6 +158,7 @@ pygments_style = None
 #
 
 # sphinx_rtd_theme - mobile friendly
+# html_theme = 'sphinx_rtd_theme'
 # 9b59b6 is the light purple color in the navigation
 # 2980b9 is the blue used for Edit on GitHub
 # html_theme_options = {
@@ -113,12 +166,11 @@ pygments_style = None
 #     'style_nav_header_background': '#2980b9'    
 # }
 
-# Activate the theme.
-html_theme = 'bootstrap'
-html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
-#html_logo='_static/icons/alu.png'
-html_theme_options={
-    'navbar_title': "Aimee Ukasick",
+# Activate the bootstrap theme. - not good for pages with more than a few levels of headings
+# html_theme = 'bootstrap'
+# html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
+# html_theme_options={
+#     'navbar_title': "Aimee Ukasick",
      # Bootswatch (http://bootswatch.com/) theme.
     #
     # Options are nothing (default) or the name of a valid theme
@@ -130,12 +182,13 @@ html_theme_options={
     # Currently, the supported themes are:
     # - Bootstrap 2: https://bootswatch.com/2
     # - Bootstrap 3: https://bootswatch.com/3
-    'bootswatch_theme': "spacelab",
+#     'bootswatch_theme': "spacelab",
 
     # Choose Bootstrap version.
     # Values: "3" (default) or "2" (in quotes)
-    'bootstrap_version': "3",
-}
+#     'bootstrap_version': "3",
+# }
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

@@ -43,7 +43,7 @@ Individual member of the `Open Source Initiative <https://opensource.org/>`_, th
 
 .. toctree::
    :maxdepth: 1
-   :caption: Me Me Me It's All About ME:
+   :caption: About Me:
 
    tech_writing.rst
    software_dev.rst
@@ -51,7 +51,6 @@ Individual member of the `Open Source Initiative <https://opensource.org/>`_, th
 
 
 Site Tools
-==========
 
 * :ref:`search`
 

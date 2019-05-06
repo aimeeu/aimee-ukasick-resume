@@ -20,42 +20,45 @@
 Technical Writing
 =================
 I've been writing in one area or another since I was a child - silly poems,
-short stories in grade school, exceedingly bad poetry. In college, my writing
-was done solely to fulfill course assignments. Research, collate, draw
-conclusions backed by evidence and then sway the Professor to support my
-hypothesis was my only goal.
+short stories in grade school, exceedingly bad poetry, and college research
+papers. My technical writing started a few years after I became a software
+developer. After my colleagues found out I had taught English as a Second
+Language, no matter what project I worked on I was asked to proofread UI text,
+write Help content, work on business requirements, and create design
+documentation in addition to designing, coding, and testing software.
 
-I skedaddled off to Taiwan after college to :ref:`teach <res-lttc>` English as a Second Language (ESL). This was before
-email, so I wrote postcards and letters to friends and family detailing my adventures. Teaching was very rewarding, and teaching college writing to non-native speakers definitely made me a better writer.
 
-
-After returning from Taiwan and earning a second unmarketable degree, I turned
-to the world of software development. I was hired to do Y2K remediation, but
-since I stunk at mainframe programming, my employer moved me into a development
-group using Smalltalk and Java. From then on, no matter what project I worked
-on, I proofread UI text, wrote Help docs, wrote business requirements, and
-created design documentation in addition to designing, coding, and testing software.
-
-I've created documentation in HTML, reStructuredText, and Markdown.
-
-Goals
-=====
-I've been developing software since 1997, so I know that the vast majority of
-developers dislike documenting their code and products.  What's obvious to the
-people who created the product may not be obvious to the people who have to
-install and use the product. Documents often lack detailed instructions, and
-the structure may be a bit higgledy-piggledy.
+The Reasons, or Why I Like Tech Writing
+=======================================
+Good documentation is key to an Open Source project's widespread adoption by
+both end-users and developers, yet creating documentation seems to be the last
+thing on the list, almost an afterthought in many cases. As an end-user, I've
+been frustrated more than once by incomplete installation and user guides with higgledy-piggledy content,
+which can lack details, screenshots, and step-by-step organization.
+As a developer, I've been equally frustrated by
+the lack of comprehensive API documentation. Both of these drove me to focus
+more on tech writing than on developing software in recent years.
 
 - I like to organize chaos
 - I like to bring clarity to muddy waters
-- I like to enable developers to be better documentors, whether it's providing them with page templates or figuring out how to create automated API documentation from a Swagger file
+- I like to enable developers to be better documentors, whether it's providing them with page templates or enabling the creation of automated API documentation from a Swagger JSON file
+- I like figuring out how stuff works and creating guides to help the next end user
+
+
+I've created documentation in HTML, reStructuredText, and Markdown for Open Source projects, internal company projects, and my personal projects on GitHub.
+
+My Contributions
+================
 
 Publicly Available Docs
-=======================
+-----------------------
 Acumos
-------
+++++++
 | **Markup**: reStructuredText
 | **Tools**: Sphinx, Pandoc
+| `Acumos Docs <https://docs.acumos.org>`_
+| `Acumos GitHub <https://github.com/acumos/documentation>`_
+| `Acumos Wiki <https://wiki.acumos.org>`_
 
 It all started with a phone call from JM, my AVP, asking me to take a look at the Acumos project's docs and tell him what was missing. This was two weeks prior to the project's launch as an Open Source project in the Linux Foundation. An automated documentation project had been created using Sphinx, with submodules linking to most of the component repositories. However, developers hadn't been given guidelines on creating documentation: file structure, naming, content, reStructuredText. In addition, most of the end-user documentation was non-existent, and nobody had even started pulling all the docs together into a coherent, user-friendly format. So I hatched a plan:
 
@@ -65,7 +68,7 @@ It all started with a phone call from JM, my AVP, asking me to take a look at th
 - Brush up on Sphinx
 - Move all end-user docs to the Docs project so I would have merge control
 - Create and/or edit the end-user docs, add screen shots, clarify instructions
-- Create and organize the main docs site (docs.acumos.org)
+- Create and organize the main docs site (docs.acumos.org) as well as tweak the theme for Acumos colors
 
 I had the part-time help of one person reviewing the component docs, but the rest was up to me. I put in two 70-hr weeks getting the automated documentation and the wiki ready for the project's public launch at the Open Networking Summit in 2018.
 
@@ -94,27 +97,37 @@ A change in employment circumstances led to my resignation as Docs PTL. Before I
 
 Items I wish I had been able to work on before I left:
 
-- API is documented using Swagger tags; figure out how to generate and include API docs in automated documentation
+- API code is documented using Swagger tags; the Docs project includes the sphinx-swaggerdoc plugin; figure out how to get developers to actually generate the Swagger JSON file for inclusion in automated documentation (`example <https://docs.acumos.org/en/latest/docs-contributor-guide/templates/api-docs.html>`_)
 - `reno <https://docs.openstack.org/reno/latest/>`_ for release notes
 - Explore the many Sphinx plugins to get an idea of what could be used on the project
 - Convert the Docs project to use Intersphinx linking and eliminate submodules
 
 OPNFV
------
++++++
 **Markup**: reStructuredText
 
 I was assigned to work on OPNFV at the same time I was working on OpenStack Congress (2016-2017). I contributed how-to pages and updates to the Copper, JOID, Models, VES, Developer and Infrastructure spaces as well as updating existing project docs written in rST. An example from the wiki:
 
 - `DevStack in a VM Notes <https://wiki.opnfv.org/display/copper/DevStack+in+a+VM+Notes>`_
 
-OpenStack Congress
-------------------
-**Markup**: reStructuredText
+OpenStack Projects
+++++++++++++++++++
+**Markup**: reStructuredText, Python docstring
 
-In 2016 I volunteered to contribute to the OpenStack Congress project. One of the best ways to learn an Open Source project is to contribute to the documentation as well as doing bug fixes. In addition to minor docs patches, I was appointed the Cross-Project Docs Liaison. Unfortunately I was pulled off the project before I could excel in that role.
+Murano
+^^^^^^
+I `modified docstring comments <https://review.opendev.org/#/c/307384/6>`_ to be PEP8 compliant, as well as enhanced the comment content as needed.
+
+Congress
+^^^^^^^^
+- Minor patches, such as fixing rST compile warnings
+- `Enhanced congress-pythonclient installation guide to add installing from a branch <https://review.opendev.org/#/c/424738/1>`_
+- `Add HA Overview guide <https://review.opendev.org/#/c/350731/>`_ (written based on HA blueprint)
+
+I also acted as the Cross-Project Docs Liaison.
 
 Personal Project Documentation
-------------------------------
+++++++++++++++++++++++++++++++
 **Markup**: reStructuredText, Markdown
 
 Documentation created for Udacity nanodegree assignments:
@@ -128,15 +141,15 @@ Documentation created for Udacity nanodegree assignments:
 
 
 K-9 Obedience Training Club of Menomonee Falls
-----------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++
 I've been the content creator and webmaster for my local dog training club since 2001. The `site <https://k9otc.com/>`_ has undergone many changes, the latest of which was a move to GoDaddy and subsequent redesign using GoDaddy's site builder.
 
 Ken - A Life in Pictures
-------------------------
+++++++++++++++++++++++++
 Since I was creating photo collages for the funeral, I threw together this memorial `website <https://cardiganpeke.godaddysites.com/>`_ for out-of-state relatives who were unable to attend the service.
 
 Etherpads
----------
++++++++++
 Quite a bit of my job at AT&T Labs involved figuring out how Open Source products worked and informally documenting my findings for my supervisor. I used etherpads extensively to take notes, record step-by-step procedures, and the dreaded "it's not working the way it's supposed to be working" situations. The etherpads are on public servers and still accessible.
 
 Sampling of Topics:
@@ -146,7 +159,7 @@ Sampling of Topics:
 - Conference notes
 
 Not Publicly Available Docs
-===========================
+---------------------------
 Much of the technical writing I've done is not publicly available - internal requirements, architecture and design, help system content.
 
 From 2017-2019 I really enjoyed assignments from my AVP. It always started with a phone call.... JM didn't have time to look into something, so he asked me to do the research and write up my findings. I did Proofs of Concept, gap analysis, and pure "what is this and how does it work" research.
@@ -176,18 +189,28 @@ My OS of choice is Ubuntu Linux because it's FOSS and the most developer-friendl
 - **Screenshots**: `Shutter <https://launchpad.net/shutter>`_
 - **Automation**: `Sphinx <http://sphinx-doc.org/>`_
 
-Pet Peeves
-==========
-I put this section last since it shows what a geek I am - too many years of teaching English composition to non-native speakers.
+Spinx Themes
+------------
+These days, all themes should be mobile-friendly. I admit I am partial to themes with an expandable left menu section. For sites without several heading levels in one or more pages, I like the Spinx Bootstrap Theme.
 
-- Possessive instead of plural:
+- `Alabaster <https://github.com/bitprophet/alabaster>`_
+- `Guzzle Sphinx Theme <https://github.com/guzzle/guzzle_sphinx_theme>`_
+- `Sphinx Better Theme <https://sphinx-better-theme.readthedocs.io>`_
+- `Spinx Bootstrap Theme <http://ryan-roemer.github.io/sphinx-bootstrap-theme/README.html>`_
+- `Sphinx RTD Theme <https://sphinx-rtd-theme.readthedocs.io>`_
 
-    - *Talk about REST API’s* should be *Talk about REST APIs*
-    - *I was born in the 1960's* should be *I was born in the 1960s*
+Geeky Pet Peeves
+================
+Too many years of teaching English composition to non-native speakers...
+
+- Using possessive instead of plural:
+
+    - *Lets discuss how to document REST API’s*
+    - *I was born in the 1960's*
 
 - Using the subject instead of the object form after a preposition
 
-    - *for you and I* should be *for you and me*
-    - *between you and I* should be *between you and me*
+    - *for you and I*
+    - *between you and I*
 
-- Numerous capitalization and punctuation errors in Open Source documentation (I'm here to help address those!)
+- Numerous capitalization and punctuation errors in Open Source documentation (I'm happy to help address those!)
