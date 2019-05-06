@@ -49,10 +49,20 @@ Areas of Interest
 | Mobile Applications
 | REST APIs
 
+Favorite Tools
+==============
+| IDEs: Eclipse, Pycharm, WebStorm, VSCode, WebStorm
+| Editors: Atom, gedit, ReText
+| Others: Insomnia (API testing), FileZilla, Shutter (screenshots), GIMP
+
+Operating Systems
+=================
+Linux (Ubuntu, Centos), Mac, Windows
+
 A Shuffle Down Memory Lane
 ==========================
 
-I can remember playing text-based games on a Commodore 64 - can you?
+I remember playing text-based games on a Commodore 64, which means I'm getting old. SIGH.
 
 The Early Years
 ---------------
