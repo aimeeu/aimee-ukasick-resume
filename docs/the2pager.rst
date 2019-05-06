@@ -37,6 +37,7 @@ AT&T Labs (Network and Research)
 - **Community**: Grace Hopper Women in Computing Conference: Open Source Track Reviewer 2017, 2018
 - **AT&T Awards**:  AT&T youDeserve Award, 2017 for leadership roles within Open Source projects
 
+:ref:`Details <res-opensourcelead-details>`
 
 AT&T Integrated Cloud - OpenStack Community Team
 ------------------------------------------------
@@ -50,7 +51,7 @@ Brought experience, leadership, and mentoring to a fledging team comprised of ne
 - **Community**: Presentation: PTLs and Cores: We Aren’t as Scary as You Think, OpenStack Summit, Barcelona, Spain
 - **AT&T Awards**:  AT&T youDeserve Award, 2016 for my involvement with the OpenStack community
 
-
+:ref:`Details <res-osct-details>`
 
 AT&T Technology Development - Middleware Solutions and Service Engineering
 ----------------------------------------------------------------------------
@@ -63,6 +64,7 @@ Senior/Lead Developer on a distributed Scrum team comprised of both contractors 
 - **Languages**: Java
 - **Technical Areas**: BPMN.io/Camunda BPM (Business Process Model and Notation); Cassandra; Sonar; Jenkins;  AT&T Event and Error Logging Framework; Camel REST API; Postman; Maven; Apache JMeter; AT&T Consolidated Service Manager Framework; Node.js; Apache Kafka; Rabbit MQ
 
+:ref:`Details <res-middleware-details>`
 
 AT&T Technology Development - Technology Governance
 ---------------------------------------------------
@@ -74,6 +76,8 @@ Lead Developer on a small team of developers and DBAs. Identified gaps in softwa
 - **Languages**: VB.NET, Java, Javascript, Objective-C, SQL, HTML, CSS
 - **Technical Areas**: ASP.NET; VB.NET; J2EE;  Servers (JBoss, Tomcat, Apache, Jetty); Model-View-Controller Framworks (JBoss Seam, Struts, Spring); Business Process Management (Drools, jPBM); Object Relational Mapping (Hibernate, Java Persistence Architecture); UI Frameworks (Rich Faces); Logging Frameworks (log4j); Unit Testing Frameworks; REST API; iOS development; Databases (Oracle, SQL Server); JSON; Unified Modeling Language
 - **AT&T Awards**:  AT&T IT Award, 2014 for spearheading the MOTS mobile application effort
+
+:ref:`Details <res-techgov>`
 
 ADDITIONAL RELEVANT EXPERIENCE
 ==============================

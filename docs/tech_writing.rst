@@ -42,19 +42,21 @@ I've been developing software since 1997, so I know that the vast majority of
 developers dislike documenting their code and products.  What's obvious to the
 people who created the product may not be obvious to the people who have to
 install and use the product. Documents often lack detailed instructions, and
-the structure may be a bit higgledy-piggledy. **In my role as a Technical Writer,
-I like to create organization from chaos and clarity from mud.** Furthermore,
-I like to enable developers to be better documentors, whether it's providing them
+the structure may be a bit higgledy-piggledy.
+
+- I like to organize chaos
+- I like to bring clarity to muddy waters
+- I like to enable developers to be better documentors, whether it's providing them
 with page templates or figuring out how to create automated API documentation from a Swagger file.
 
 Publicly Available Docs
 =======================
 Acumos
 ------
-It all started with a phone call from JM, my AVP, asking me to take a look at the Acumos project's docs and tell him what was missing. This was two weeks prior to the project's launch as an Open Source project in the Linux Foundation. An automated documentation project had been created using Sphinx, with submodules linking to most of the component repositories. However, developers hadn't been given guidelines on creating documentation: file structure, naming, content, reStructuredText. In addition, most of the end-user documentation was non-existant, and nobody had even started pulling all the docs together into a coherent, user-friendly format. So I hatched a plan:
+It all started with a phone call from JM, my AVP, asking me to take a look at the Acumos project's docs and tell him what was missing. This was two weeks prior to the project's launch as an Open Source project in the Linux Foundation. An automated documentation project had been created using Sphinx, with submodules linking to most of the component repositories. However, developers hadn't been given guidelines on creating documentation: file structure, naming, content, reStructuredText. In addition, most of the end-user documentation was non-existent, and nobody had even started pulling all the docs together into a coherent, user-friendly format. So I hatched a plan:
 
 - Analyze all the docs in the component repos
-- Create detailed Jira tickets for shotcomings
+- Create detailed Jira tickets for shortcomings
 - Work with developers to resolve issues, many of which resulted from content being created with Word and converted to rST using Pandoc
 - Brush up on Sphinx
 - Move all end-user docs to the Docs project so I would have merge control
@@ -91,6 +93,7 @@ Items I wish I had been able to work on before I left:
 - API is documented using Swagger tags; figure out how to generate and include API docs in automated documentation
 - `reno <https://docs.openstack.org/reno/latest/>`_ for release notes
 - Explore the many Sphinx plugins to get an idea of what could be used on the project
+- Convert the Docs project to use Intersphinx linking and eliminate submodules
 
 OPNFV
 -----
@@ -149,8 +152,8 @@ Favorite Sites
 - `Write the Docs <http://www.writethedocs.org/>`_ "Write the Docs is a global community of people who care about documentation."
 - `Distributed Proofreaders <https://www.pgdp.net/c/>`_ "Preserving History One Page at a Time." Volunteer to proofread on page at a time.
 
-Guides
-======
+Useful Guides
+=============
 - `Technical Documentation Style Guide - NASA <https://standards.nasa.gov/file/2616/download?token=Xg8ZAkSy>`_ (PDF)
 - `OpenStack Documentation Contributor Guide <https://docs.openstack.org/doc-contrib-guide/index.html>`_
 
@@ -159,7 +162,7 @@ Content Tools
 My OS of choice is Ubuntu Linux because it's FOSS and the most developer-friendly OS with which I've interacted.
 
 - rST: `ReText <https://github.com/retext-project/retext>`_, `Sphinx <http://sphinx-doc.org/>`_
-- Markdown: `Atom <https://atom.io/>`_, `Visual Studio Code <https://code.visualstudio.com/>`_, `Typora <https://typora.io/>`_
+- Markdown Editors: `Atom <https://atom.io/>`_, `Visual Studio Code <https://code.visualstudio.com/>`_, `Typora <https://typora.io/>`_
 - Screenshots: `Shutter <https://launchpad.net/shutter>`_
 
 Pet Peeves
@@ -176,4 +179,4 @@ I put this section last since it shows what a geek I am - too many years of teac
     - *for you and I* should be *for you and me*
     - *between you and I* should be *between you and me*
 
-- Numerous capitalization and punctuation errors in Open Source documentation (I'm here to help fix those!)
+- Numerous capitalization and punctuation errors in Open Source documentation (I'm here to help address those!)
