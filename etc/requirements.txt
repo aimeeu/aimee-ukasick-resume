@@ -8,4 +8,5 @@ six
 sphinx_rtd_theme
 sphinx_bootstrap_theme
 guzzle_sphinx_theme
+sphinx-better-theme
 
