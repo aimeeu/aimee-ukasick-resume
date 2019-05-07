@@ -27,6 +27,31 @@ Language, no matter what project I worked on I was asked to proofread UI text,
 write Help content, work on business requirements, and create design
 documentation in addition to designing, coding, and testing software.
 
+Markup
+======
+HTML, rST, Markdown, JSON, YAML, XML, CSS
+
+Content Tools
+=============
+My OS of choice is Ubuntu Linux because it's FOSS and the most developer-friendly OS with which I've interacted.
+
+- **rST Editor**: `ReText <https://github.com/retext-project/retext>`_
+- **Markdown Editors**: `Atom <https://atom.io/>`_, `Visual Studio Code <https://code.visualstudio.com/>`_, `Typora <https://typora.io/>`_
+- **Screenshots**: `Shutter <https://launchpad.net/shutter>`_
+- **Automation**: `Sphinx <http://sphinx-doc.org/>`_
+
+2019 2Q goal: learn Hugo and Jekyll website frameworks
+
+Spinx Themes
+------------
+These days, all themes should be mobile-friendly. I admit I am partial to themes with an expandable left menu section. For sites without several heading levels in one or more pages, I like the Spinx Bootstrap Theme.
+
+- `Alabaster <https://github.com/bitprophet/alabaster>`_
+- `Guzzle Sphinx Theme <https://github.com/guzzle/guzzle_sphinx_theme>`_
+- `Sphinx Better Theme <https://sphinx-better-theme.readthedocs.io>`_
+- `Spinx Bootstrap Theme <http://ryan-roemer.github.io/sphinx-bootstrap-theme/README.html>`_
+- `Sphinx RTD Theme <https://sphinx-rtd-theme.readthedocs.io>`_
+
 
 The Reasons, or Why I Like Tech Writing
 =======================================
@@ -43,6 +68,7 @@ more on tech writing than on developing software in recent years.
 - I like to bring clarity to muddy waters
 - I like to enable developers to be better documentors, whether it's providing them with page templates or enabling the creation of automated API documentation from a Swagger JSON file
 - I like figuring out how stuff works and creating guides to help the next user or developer
+- I like designing and creating content for websites using frameworks
 
 
 I've created documentation in HTML, reStructuredText, and Markdown for open source projects, internal company projects, and my personal projects on GitHub.
@@ -178,24 +204,6 @@ Useful Guides
 - `Technical Documentation Style Guide - NASA <https://standards.nasa.gov/file/2616/download?token=Xg8ZAkSy>`_ (PDF)
 - `OpenStack Documentation Contributor Guide <https://docs.openstack.org/doc-contrib-guide/index.html>`_
 
-Content Tools
-=============
-My OS of choice is Ubuntu Linux because it's FOSS and the most developer-friendly OS with which I've interacted.
-
-- **rST Editor**: `ReText <https://github.com/retext-project/retext>`_
-- **Markdown Editors**: `Atom <https://atom.io/>`_, `Visual Studio Code <https://code.visualstudio.com/>`_, `Typora <https://typora.io/>`_
-- **Screenshots**: `Shutter <https://launchpad.net/shutter>`_
-- **Automation**: `Sphinx <http://sphinx-doc.org/>`_
-
-Spinx Themes
-------------
-These days, all themes should be mobile-friendly. I admit I am partial to themes with an expandable left menu section. For sites without several heading levels in one or more pages, I like the Spinx Bootstrap Theme.
-
-- `Alabaster <https://github.com/bitprophet/alabaster>`_
-- `Guzzle Sphinx Theme <https://github.com/guzzle/guzzle_sphinx_theme>`_
-- `Sphinx Better Theme <https://sphinx-better-theme.readthedocs.io>`_
-- `Spinx Bootstrap Theme <http://ryan-roemer.github.io/sphinx-bootstrap-theme/README.html>`_
-- `Sphinx RTD Theme <https://sphinx-rtd-theme.readthedocs.io>`_
 
 Geeky Pet Peeves
 ================
