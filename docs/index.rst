@@ -56,7 +56,7 @@ Site Tools
 
 
 .. note::
-    Themes, themes, themes... I tried several Sphinx themes for this site and eventually settled on the them used by Read the Docs, with some color changes.
+    Themes, themes, themes... I tried several Sphinx themes for this site and eventually settled on the theme used by Read the Docs, with some color changes.
 
 .. |EmailLink| image:: _static/icons/email32.png
 .. _EmailLink: mailto:aimeeu.opensource@gmail.com?subject=SawYourOnlineResume!
