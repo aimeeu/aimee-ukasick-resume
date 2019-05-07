@@ -30,7 +30,7 @@ documentation in addition to designing, coding, and testing software.
 
 The Reasons, or Why I Like Tech Writing
 =======================================
-Good documentation is key to an Open Source project's widespread adoption by
+Good documentation is key to an open source project's widespread adoption by
 both end-users and developers, yet creating documentation seems to be the last
 thing on the list, almost an afterthought in many cases. As an end-user, I've
 been frustrated more than once by incomplete installation and user guides with higgledy-piggledy content.
@@ -45,7 +45,7 @@ more on tech writing than on developing software in recent years.
 - I like figuring out how stuff works and creating guides to help the next user or developer
 
 
-I've created documentation in HTML, reStructuredText, and Markdown for Open Source projects, internal company projects, and my personal projects on GitHub.
+I've created documentation in HTML, reStructuredText, and Markdown for open source projects, internal company projects, and my personal projects on GitHub.
 
 My Contributions
 ================
@@ -58,7 +58,7 @@ Acumos
 | **Tools**: Sphinx, Pandoc
 | `Acumos Docs <https://docs.acumos.org/en/athena/>`_ | `Acumos GitHub <https://github.com/acumos/documentation>`_ | `Acumos Wiki <https://wiki.acumos.org>`_
 
-My involvement with Acumos documentation started with a phone call from JM, my AVP, asking me to take a look at the Acumos project's docs and tell him what was missing. This was two weeks prior to the project's launch as an Open Source project in the Linux Foundation. An automated documentation project had been created using Sphinx, with submodules linking to most of the component repositories. However, developers hadn't been given guidelines on creating documentation: file structure, naming, content, reStructuredText. In addition, most of the end-user documentation was non-existent, and nobody had even started pulling all the docs together into a coherent, user-friendly format. So I hatched a plan:
+My involvement with Acumos documentation started with a phone call from JM, my AVP, asking me to take a look at the Acumos project's docs and tell him what was missing. This was two weeks prior to the project's launch as an open source project in the Linux Foundation. An automated documentation project had been created using Sphinx, with submodules linking to most of the component repositories. However, developers hadn't been given guidelines on creating documentation: file structure, naming, content, reStructuredText. In addition, most of the end-user documentation was non-existent, and nobody had even started pulling all the docs together into a coherent, user-friendly format. So I hatched a plan:
 
 - Analyze all the docs in the component repos
 - Create detailed Jira tickets for shortcomings
@@ -148,7 +148,7 @@ Since I was creating photo collages for the funeral, I threw together this memor
 
 Etherpads
 +++++++++
-Quite a bit of my job at AT&T Labs involved figuring out how Open Source products worked and informally documenting my findings for my supervisor. I used etherpads extensively to take notes, record step-by-step procedures, and the dreaded "it's not working the way it's supposed to be working" situations. The etherpads are on public servers and still accessible.
+Quite a bit of my job at AT&T Labs involved figuring out how open source products worked and informally documenting my findings for my supervisor. I used etherpads extensively to take notes, record step-by-step procedures, and the dreaded "it's not working the way it's supposed to be working" situations. The etherpads are on public servers and still accessible.
 
 Sampling of Topics:
 
@@ -211,4 +211,4 @@ Too many years of teaching English composition to non-native speakers...
     - *for you and I*
     - *between you and I*
 
-- Numerous capitalization and punctuation errors in Open Source documentation (I'm happy to help address those!)
+- Numerous capitalization and punctuation errors in open source documentation (I'm happy to help address those!)

@@ -25,9 +25,9 @@ The Detailed Resume
 -  Proven ability to proactively determine course, synthesize common themes across technical areas, pinch hit in a variety of situations, implement change, exceed targets, create order from chaos, clarify mud, and drive results while working with minimal guidance both independently and leading a team (local and distributed).
 -  Possesses a combination of analytical and leadership skills, with
    excellent organizational and prioritization abilities
--  Strong advocate for Open Source projects and communities; active contributor in roles from contributor to Project Team Lead
+-  Strong advocate for open source projects and communities; active contributor in roles from contributor to Project Team Lead
 -  Familiarity with or expertise in collaboration and development tools
-   commonly used by Open Source projects: Git, Gerrit, Jenkins, IRC,
+   commonly used by open source projects: Git, Gerrit, Jenkins, IRC,
    Slack, Etherpad, mailing lists, Jira, Confluence wiki, Zoom, WebEx
 -  Open Source Track Submission Reviewer for the 2017 and 2018 Grace
    Hopper Women in Computing Conferences
@@ -45,13 +45,13 @@ AT&T Labs (Network and Research)
 **Principal System Engineer – Open Source Lead, 10/2016 - 3/2019**
 
 **Open Source Strategist and Engagement Expert**: set priority and strategy; forged external relationships within `OpenStack <https://www.openstack.org/>`_, `OPNFV <https://www.opnfv.org/>`_, `Cloud Native Computing Foundation <https://www.cncf.io/>`_, and
-`Acumos <https://www.acumos.org/>`_  communities to raise AT&T’s presence; represented AT&T at Open Source events; drove AT&T’s agenda through active participation in working groups; developed requirements to address business needs and spearheaded solutions within Open Source communities; developed, tested, and maintained Open Source software components in roles from Contributor  to Project Team Lead;  drove proofs of concept to implementation; identified project gaps and drove solutions; created, edited, and curated automated documentation; created and organized wiki content; empowered developers with wiki and Jira plugins; established best practices for Open Source engagement; created Technical Project Charter; organized and facilitated Technical Steering Committee meetings; mentored contributors new to Open Source projects; validated code licensing and security scans; configured and managed a small server lab.
+`Acumos <https://www.acumos.org/>`_  communities to raise AT&T’s presence; represented AT&T at open source events; drove AT&T’s agenda through active participation in working groups; developed requirements to address business needs and spearheaded solutions within open source communities; developed, tested, and maintained open source software components in roles from Contributor  to Project Team Lead;  drove proofs of concept to implementation; identified project gaps and drove solutions; created, edited, and curated automated documentation; created and organized wiki content; empowered developers with wiki and Jira plugins; established best practices for open source engagement; created Technical Project Charter; organized and facilitated Technical Steering Committee meetings; mentored contributors new to open source projects; validated code licensing and security scans; configured and managed a small server lab.
 
 - **Projects**: Acumos Docs, Community, Security; OpenStack Congress; OPNFV Copper, Models, VES, Releng
 - **Languages**: Python, Java, Bash, R, C, reStructured Text, Go, HTML, CSS, Node.js, JSON, YAML
 - **Technical Areas**: Network Function Virtualization; Cloud; Cloud Native; Deep Learning; Ubuntu; Centos; Metal as a Service (MAAS);  OpenStack installers; OPNFV installers; Rancher; IoT; Raspberry Pi; Containers; Docker; Docker Swarm; Kubernetes; OpenShift; Robot Framework (Automated Testing); Sphinx, reStructuredText, Markdown, Pandoc (Automated Docs); Spring; Flask; KnockoutJS; Git, Gerrit, Jenkins, IRC, Slack, Etherpad, mailing lists, Jira, Confluence wiki, Zoom
 - **Community**: Grace Hopper Women in Computing Conference: Open Source Track Reviewer 2017, 2018
-- **AT&T Awards**:  AT&T youDeserve Award, 2017 for leadership roles within Open Source projects
+- **AT&T Awards**:  AT&T youDeserve Award, 2017 for leadership roles within open source projects
 
 .. _res-opensourcelead-details:
 
@@ -64,7 +64,7 @@ Details
    `Cloud Native Computing Foundation <https://www.cncf.io/>`_
 
    -  **Assessed opportunities and implications** of
-      leveraging Open Source for Cloud Native – participated in Cloud
+      leveraging open source for Cloud Native – participated in Cloud
       Native POCs comparing Apcera, RedHat OpenShift, and Docker
       Enterprise Edition, which included ability to run across both AMD
       and ARM hardware; IoT/Raspberry Pi/Moby Tools/Orchestration
@@ -82,7 +82,7 @@ Details
       requirements from initial discussion to blueprint
    -  Acumos
 
-      -  **Brought on to mentor team members new to Open Source
+      -  **Brought on to mentor team members new to open source
          engagement** before the official launch at the Open Networking
          Summit (3/18); acted as mentor, advisor, generalist,
          operational glue
@@ -109,7 +109,7 @@ Details
          produced automated API testing scripts; evaluated Test
          Management plugins for Jira and worked with LF support staff to
          install/configure; provide support and guidance to Testing PTL
-         on working within an Open Source community
+         on working within an open source community
 
 -  Server Lab Configuration and Management
 
@@ -161,8 +161,8 @@ Details
       (VPN, etc) and resolutions; Ongoing collaboration on the
       internal Native Linux laptop initiative
    -  **Proof of Concept**: **ZNC**; research and local installation of
-      ZNC, an Open Source IRC proxy; collaborated with 2 team members on
-      evaluation of several cross-platform, commercial and Open Source
+      ZNC, an open source IRC proxy; collaborated with 2 team members on
+      evaluation of several cross-platform, commercial and open source
       IRC clients; recommended ZNC with HexChat, proposal adopted;
       reached out to Freenode admins on IRC to obtain list of freenode
       IP addresses and submitted Firewall request; collaborated with the
@@ -216,7 +216,7 @@ Details
    -  Participation in Domain 2.0 Open Source Strategy meetings
 
 -  **Recipient of the AT&T youDeserve award** recognizing my
-   commitment to Open Source and my involvement in the Women of
+   commitment to open source and my involvement in the Women of
    OpenStack**
 
 .. _res-middleware:
@@ -237,7 +237,7 @@ Senior/Lead Developer on a distributed Scrum team comprised of both contractors 
 Details
 +++++++
 
--  Open Source Camunda BPM Platform as a Service:
+-  Camunda BPM Platform as a Service:
 
    -  **Learned on the job the Camunda BPM platform** as well as several
       internally developed offerings in the Cloud, PaaS, Messaging,
@@ -258,7 +258,7 @@ Details
       service
    -  Created and Validated Wiki documentation
    -  **Proof of Concept**: `BPMN.IO <http://bpmn.io/>`__: research on
-      **Open Source** BPM web-based modeler built with bpmn-js; learned
+      **open source** BPM web-based modeler built with bpmn-js; learned
       Node.js and an internally developed Node Service Container;
       analyzed `BPMN.IO <http://bpmn.io/>`__ open source code
       base and decided best path forward**; created WAR for deployment
@@ -285,7 +285,7 @@ AT&T Technology Development - Technology Governance
 ---------------------------------------------------
 **Technical Architect, 7/2003 – 4/2015**
 
-Lead Developer on a small team of developers and DBAs. Identified gaps in software development practices and drove solutions. Provided strategic direction and long-term architectural recommendations for applications.  Ported existing ASP apps to .NET and then to Java; Created content and code for end-user Help system; Evaluated and became Subject Matter Expert for Open Source software. Wore many hats: Requirements Analyst, Project Manager, Lead Developer, Architect, Tester, Tech Writer, Production Support, Business Team Support, Release Management, Bug Triage, Server Support; Strategic glue between developers and upper management
+Lead Developer on a small team of developers and DBAs. Identified gaps in software development practices and drove solutions. Provided strategic direction and long-term architectural recommendations for applications.  Ported existing ASP apps to .NET and then to Java; Created content and code for end-user Help system; Evaluated and became Subject Matter Expert for open source software. Wore many hats: Requirements Analyst, Project Manager, Lead Developer, Architect, Tester, Tech Writer, Production Support, Business Team Support, Release Management, Bug Triage, Server Support; Strategic glue between developers and upper management
 
 - **Projects**: (AT&T Internal) Technology Architecture Board Voting; Technology Standards and Strategies Exceptions; Mechanized Operations and Tracking System (iOS version)
 - **Languages**: VB.NET, Java, Javascript, Objective-C, SQL, HTML, CSS
@@ -317,7 +317,7 @@ Details
       user stories, followed up on progress
    -  **Communicated progress** and managed the client’s expectations
 
--  **Evaluated Open Source software**; Subject Matter Expert for open
+-  **Evaluated open source software**; Subject Matter Expert for open
    source products: JUnit and Log4J
 -  **Architect, Lead Developer, Technology Strategy and Standards
    Exceptions web-enabled application:** governance process and
@@ -335,7 +335,7 @@ Details
    -  **Architecture**: Provided strategic direction and long-term
       architectural recommendations, such as rewriting the application
       in Java and incorporating business process and rules engines;
-      collaborated with team to evaluate **Open Source** J2EE frameworks
+      collaborated with team to evaluate **open source** J2EE frameworks
       and decided on the JBoss Seam Framework, which incorporated
       Drools, jBPM, and RichFaces; spearheaded implementation
 
@@ -371,7 +371,7 @@ Details
 -  **Architect, Technology Architecture Board application port from ASP
    to Java**
 
-   -  Evaluated Open Source ORM libraries
+   -  Evaluated open source ORM libraries
    -  Designed the application and then supervised the summer intern who
       wrote the code
    -  Conducted code reviews and extensive mentoring sessions (pair
