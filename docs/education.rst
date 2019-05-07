@@ -44,8 +44,9 @@ AI Programming with Python Nanodegree
 | This course focused on neural networks and the foundations of AI: the programming tools (Python, NumPy, PyTorch), the math (calculus and linear algebra), and the key techniques of neural networks (gradient descent and backpropagation).
 
 Projects:
-  - `Dog Image Identification <https://github.com/aimeeu/Udacity-AIProgrammingWithPython/tree/master/dog-image-classification-exercise>`_
-  - `Flower Classification <https://github.com/aimeeu/Udacity-AIProgrammingWithPython/tree/master/final-project-flower-classification>`_
+
+#. `Dog Image Identification <https://github.com/aimeeu/Udacity-AIProgrammingWithPython/tree/master/dog-image-classification-exercise>`_
+#. `Flower Classification <https://github.com/aimeeu/Udacity-AIProgrammingWithPython/tree/master/final-project-flower-classification>`_
 
 After completing this nanodegree, I realized that while I find AI fascinating, coding a neural network is tedious and boring.
 
