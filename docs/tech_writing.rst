@@ -42,7 +42,7 @@ more on tech writing than on developing software in recent years.
 - I like to organize chaos
 - I like to bring clarity to muddy waters
 - I like to enable developers to be better documentors, whether it's providing them with page templates or enabling the creation of automated API documentation from a Swagger JSON file
-- I like figuring out how stuff works and creating guides to help the next end user
+- I like figuring out how stuff works and creating guides to help the next user or developer
 
 
 I've created documentation in HTML, reStructuredText, and Markdown for Open Source projects, internal company projects, and my personal projects on GitHub.
@@ -58,7 +58,7 @@ Acumos
 | **Tools**: Sphinx, Pandoc
 | `Acumos Docs <https://docs.acumos.org>`_ | `Acumos GitHub <https://github.com/acumos/documentation>`_ | `Acumos Wiki <https://wiki.acumos.org>`_
 
-It all started with a phone call from JM, my AVP, asking me to take a look at the Acumos project's docs and tell him what was missing. This was two weeks prior to the project's launch as an Open Source project in the Linux Foundation. An automated documentation project had been created using Sphinx, with submodules linking to most of the component repositories. However, developers hadn't been given guidelines on creating documentation: file structure, naming, content, reStructuredText. In addition, most of the end-user documentation was non-existent, and nobody had even started pulling all the docs together into a coherent, user-friendly format. So I hatched a plan:
+My involvement with Acumos documentation started with a phone call from JM, my AVP, asking me to take a look at the Acumos project's docs and tell him what was missing. This was two weeks prior to the project's launch as an Open Source project in the Linux Foundation. An automated documentation project had been created using Sphinx, with submodules linking to most of the component repositories. However, developers hadn't been given guidelines on creating documentation: file structure, naming, content, reStructuredText. In addition, most of the end-user documentation was non-existent, and nobody had even started pulling all the docs together into a coherent, user-friendly format. So I hatched a plan:
 
 - Analyze all the docs in the component repos
 - Create detailed Jira tickets for shortcomings

@@ -103,8 +103,11 @@ html_theme = 'sphinx_rtd_theme'
 # 2980b9 is the blue used for Edit on GitHub
 # 000099 is a dark blue
 html_theme_options = {
-     'prev_next_buttons_location': 'both',
-    'style_nav_header_background': '#6600cc'      
+    'prev_next_buttons_location': 'both',
+    'style_nav_header_background': '#6600cc',
+    'display_version': False,
+    'style_external_links': False,
+    'github_url': 'https://github.com/aimeeu/aimee-ukasick-resume'      
 }
 
 

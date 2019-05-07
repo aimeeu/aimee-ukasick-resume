@@ -48,7 +48,7 @@ Brought experience, leadership, and mentoring to a fledging team comprised of ne
 - **Projects**: OpenStack Murano, Cinder, Congress, Docs
 - **Languages**: Python, ReStructured Text
 - **Technical Areas**: Cloud; Ubuntu; OpenStack; DevStack; Git; Gerrit; Launchpad; Jira
-- **Community**: Presentation: PTLs and Cores: We Aren’t as Scary as You Think, OpenStack Summit, Barcelona, Spain
+- **Community**: Presentation: *PTLs and Cores: We Aren’t as Scary as You Think*, OpenStack Summit, Barcelona, Spain
 - **AT&T Awards**:  AT&T youDeserve Award, 2016 for my involvement with the OpenStack community
 
 :ref:`Details <res-osct-details>`
