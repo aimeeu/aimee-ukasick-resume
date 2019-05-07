@@ -33,8 +33,8 @@ The Reasons, or Why I Like Tech Writing
 Good documentation is key to an Open Source project's widespread adoption by
 both end-users and developers, yet creating documentation seems to be the last
 thing on the list, almost an afterthought in many cases. As an end-user, I've
-been frustrated more than once by incomplete installation and user guides with higgledy-piggledy content,
-which can lack details, screenshots, and step-by-step organization.
+been frustrated more than once by incomplete installation and user guides with higgledy-piggledy content.
+Lack of details, screenshots, and step-by-step organization are areas I am good at addressing.
 As a developer, I've been equally frustrated by
 the lack of comprehensive API documentation. Both of these drove me to focus
 more on tech writing than on developing software in recent years.
@@ -56,7 +56,7 @@ Acumos
 ++++++
 | **Markup**: reStructuredText
 | **Tools**: Sphinx, Pandoc
-| `Acumos Docs <https://docs.acumos.org>`_ | `Acumos GitHub <https://github.com/acumos/documentation>`_ | `Acumos Wiki <https://wiki.acumos.org>`_
+| `Acumos Docs <https://docs.acumos.org/en/athena/>`_ | `Acumos GitHub <https://github.com/acumos/documentation>`_ | `Acumos Wiki <https://wiki.acumos.org>`_
 
 My involvement with Acumos documentation started with a phone call from JM, my AVP, asking me to take a look at the Acumos project's docs and tell him what was missing. This was two weeks prior to the project's launch as an Open Source project in the Linux Foundation. An automated documentation project had been created using Sphinx, with submodules linking to most of the component repositories. However, developers hadn't been given guidelines on creating documentation: file structure, naming, content, reStructuredText. In addition, most of the end-user documentation was non-existent, and nobody had even started pulling all the docs together into a coherent, user-friendly format. So I hatched a plan:
 
