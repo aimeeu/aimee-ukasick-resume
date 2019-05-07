@@ -48,7 +48,7 @@ Projects:
 #. `Dog Image Identification <https://github.com/aimeeu/Udacity-AIProgrammingWithPython/tree/master/dog-image-classification-exercise>`_
 #. `Flower Classification <https://github.com/aimeeu/Udacity-AIProgrammingWithPython/tree/master/final-project-flower-classification>`_
 
-After completing this nanodegree, I realized that while I find AI fascinating, coding a neural network is tedious and boring.
+After completing this nanodegree, I realized that while I find AI fascinating, coding a neural network is not an area I want to pursue.
 
 
 Milwaukee Area Technical College
