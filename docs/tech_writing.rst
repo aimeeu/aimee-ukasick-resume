@@ -22,7 +22,7 @@ Technical Writing
 I've been writing in one area or another since I was a child - silly poems,
 short stories in grade school, exceedingly bad poetry, and college research
 papers. My technical writing started a few years after I became a software
-developer. After my colleagues found out I had taught English as a Second
+developer. As soon as my colleagues found out I had taught English as a Second
 Language, no matter what project I worked on I was asked to proofread UI text,
 write Help content, work on business requirements, and create design
 documentation in addition to designing, coding, and testing software.
