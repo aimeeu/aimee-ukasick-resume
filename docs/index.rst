@@ -41,6 +41,7 @@ Current activities:
 - Converting this site to Hugo/Markdown
 - Catching up on long overdue yard-and-housework
 - Contemplating what kind of work I'd like to do for the next 15 years
+- Spending more time with my dogs - Pip (13), Dealio (9), and Bond (4)
 
 .. toctree::
    :maxdepth: 1
