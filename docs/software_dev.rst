@@ -31,7 +31,7 @@ Programming Languages
 | Comfortable Working In: Java (advanced), Python (beginner), SQL
 | Dabbling In: Node.js
 | Completed Tutorials In: R, Go
-| Mostly Forgotten But Could Again Develop In: Objective-C, C#, VB.NET, Smalltalk, C, C++
+| Mostly Forgotten But Could Resurrect: Objective-C, C#, VB.NET, Smalltalk, C, C++
 
 I can follow code written in most languages.
 
@@ -45,9 +45,12 @@ HTML, rST, Markdown, JSON, YAML, XML, CSS
 
 Areas of Interest
 =================
+| Blockchain
+| Cloud Native
 | IoT, Raspberry Pi, Arduino
 | Mobile Applications
 | REST APIs
+
 
 Favorite Tools
 ==============
@@ -58,6 +61,9 @@ Favorite Tools
 Operating Systems
 =================
 Linux (Ubuntu, Centos), Mac, Windows
+
+Technical Areas and Skills
+==========================
 
 A Shuffle Down Memory Lane
 ==========================

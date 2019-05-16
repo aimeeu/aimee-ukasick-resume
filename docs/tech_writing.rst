@@ -25,7 +25,7 @@ papers. My technical writing started a few years after I became a software
 developer. As soon as my colleagues found out I had taught English as a Second
 Language, no matter what project I worked on I was asked to proofread UI text,
 write Help content, work on business requirements, and create design
-documentation in addition to designing, coding, and testing software.
+documentation in addition to designing, coding, and testing software. See my :doc:`Software Development <software
 
 Markup
 ======
@@ -40,7 +40,7 @@ My OS of choice is Ubuntu Linux because it's FOSS and the most developer-friendl
 - **Screenshots**: `Shutter <https://launchpad.net/shutter>`_
 - **Automation**: `Sphinx <http://sphinx-doc.org/>`_
 
-2019 2Q goal: learn Hugo and Jekyll website frameworks
+2019 2Q goal: learning Hugo web content framework
 
 Spinx Themes
 ------------

@@ -16,14 +16,10 @@
 .. limitations under the License.
 .. ===============LICENSE_END=========================================================
 
-.. Aimee Ukasick Resume documentation master file, created by
-   sphinx-quickstart on Thu May  2 11:22:22 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
+=============
 Aimee Ukasick
 =============
-Open Source Advocate | Tech Writer | Software Developer | Open Source Community Supporter
+Open Source Advocate | Tech Writer | Software Developer | Open Source Contributor
 
 Collaborating Globally | Bridging Gaps | Spearheading Change | Driving Success in an Open Source World
 
@@ -32,6 +28,13 @@ Collaborating Globally | Bridging Gaps | Spearheading Change | Driving Success i
 
 
 Individual member of the `Open Source Initiative <https://opensource.org/>`_, the `Linux Foundation <https://www.linuxfoundation.org/>`_, and the `OpenStack Foundation <https://www.openstack.org/foundation/>`_.
+
+Contributed to:
+
+- OpenStack Congress, Murano
+- OPNFV Copper, Models, VES, Releng
+- Acumos Docs, Integration & Test
+
 
 .. toctree::
    :maxdepth: 1
