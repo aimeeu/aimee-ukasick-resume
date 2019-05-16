@@ -49,7 +49,7 @@ These days, all themes should be mobile-friendly. I admit I am partial to themes
 - `Alabaster <https://github.com/bitprophet/alabaster>`_
 - `Guzzle Sphinx Theme <https://github.com/guzzle/guzzle_sphinx_theme>`_
 - `Sphinx Better Theme <https://sphinx-better-theme.readthedocs.io>`_
-- `Spinx Bootstrap Theme <http://ryan-roemer.github.io/sphinx-bootstrap-theme/README.html>`_
+- `Sphinx Bootstrap Theme <http://ryan-roemer.github.io/sphinx-bootstrap-theme/README.html>`_
 - `Sphinx RTD Theme <https://sphinx-rtd-theme.readthedocs.io>`_
 
 
