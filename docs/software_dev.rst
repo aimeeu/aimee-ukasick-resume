@@ -84,7 +84,7 @@ Centare
 Out of the frying pan and into the fire. My first assignment was working on an order and inventory system being written in C#. So I learned C# on the job and spent an inordinate amount of time clarifying requirements. Truthfully it was not an enjoyable :ref:`stint <res-centare>`. The next assignment was equally odious: working on a financial system for a hedge fund company located in a moldy office building. At least the office pranks were prime.
 
 The 'Reach Out and Touch Someone' Years
--------------------------------------
+---------------------------------------
 I had had enough of consulting and wanted a steady development job in a single location. By this time, my brother, Andy, was working for Ameritech, which had just been gobbled up by SBC. Andy secured me an interview with the hiring manager, who wanted an experienced developer to bring good software development practices to his group. I fit the bill. Years later, the hiring manager told me what sealed the deal was that when asked to explain Struts, I drew pictures on the whiteboard while explaining Model-View-Controller architecture in terms an old mainframer could understand.
 
 Facilitating Bureaucracy

@@ -25,7 +25,7 @@ papers. My technical writing started a few years after I became a software
 developer. As soon as my colleagues found out I had taught English as a Second
 Language, no matter what project I worked on I was asked to proofread UI text,
 write Help content, work on business requirements, and create design
-documentation in addition to designing, coding, and testing software. See my :doc:`Software Development <software
+documentation in addition to designing, coding, and testing software. See  :doc:`software_dev` or :doc:`resume_detailed` for more information.
 
 Markup
 ======

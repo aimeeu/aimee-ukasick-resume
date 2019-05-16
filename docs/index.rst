@@ -53,11 +53,6 @@ Contributed to:
    education.rst
 
 
-Site Tools
-
-* :ref:`search`
-
-
 .. note::
     Themes, themes, themes... I tried several Sphinx themes for this site and eventually settled on the theme used by Read the Docs, with some color changes.
 
