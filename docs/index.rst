@@ -45,7 +45,7 @@ Current Activities:
 
 - Converting this site to Hugo/Markdown to deploy on GitHub Pages
 - Scrambling to finish Term 01 of Udacity's Blockchain nanodegree
-- Hoping to land my dream job at the `Cloud Native Computing Foundation <https://www.cncf.io/>`_
+- Hoping to land my dream Tech Writer job at the `Cloud Native Computing Foundation <https://www.cncf.io/>`_
 - Catching up on long overdue house-and-yardwork
 - Spending more time with my dogs - Pip (13), Dealio (9), and Bond (4)
 - Enjoying nature, paddling, and fishing
