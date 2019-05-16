@@ -27,6 +27,7 @@ Collaborating Globally | Bridging Gaps | Spearheading Change | Driving Success i
 |EmailLink|_  |LinkedInLink|_  |GithubLink|_  |TwitterLink|_
 
 
+
 Individual member of the `Open Source Initiative <https://opensource.org/>`_, the `Linux Foundation <https://www.linuxfoundation.org/>`_, and the `OpenStack Foundation <https://www.openstack.org/foundation/>`_.
 
 Open Source Contributions:
@@ -45,7 +46,7 @@ Current Activities:
 - Converting this site to Hugo/Markdown to deploy on GitHub Pages
 - Scrambling to finish Term 01 of Udacity's Blockchain nanodegree
 - Hoping to land my dream job at the `Cloud Native Computing Foundation <https://www.cncf.io/>`_
-- Catching up on long overdue yard-and-housework
+- Catching up on long overdue house-and-yardwork
 - Spending more time with my dogs - Pip (13), Dealio (9), and Bond (4)
 - Enjoying nature, paddling, and fishing
 
