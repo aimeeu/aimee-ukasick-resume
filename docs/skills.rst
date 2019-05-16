@@ -25,7 +25,7 @@ Languages and Frameworks
 
 .. csv-table::
    :header-rows: 1
-   :widths: 50, 50
+   :align: left
    :delim: tab
    :file: _static/langs-frames.csv
 
@@ -35,6 +35,6 @@ Concepts, Products, and Tools
 
 .. csv-table::
    :header-rows: 1
-   :widths: 50, 50
+   :align: left
    :delim: tab
    :file: _static/concepts-tools.csv
