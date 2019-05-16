@@ -35,6 +35,11 @@ Open Source Contributions:
 - `OPNFV <https://www.opnfv.org/>`_ Copper, Models, VES, Releng and wiki content
 - `Acumos <https://www.acumos.org/>`_ Docs, Integration & Test, and wiki content
 
+Udacity Nanodegrees:
+
+- :ref:`Full Stack Web Developer <edu-fullstack>` (12/2019)
+- :ref:`AI Programming with Python <edu-ai>` (6/2018)
+
 Current Activities:
 
 - Blockchain nanodegree (Udacity)
@@ -58,6 +63,7 @@ Current Activities:
 
    tech_writing.rst
    software_dev.rst
+   skills.rst
    education.rst
 
 

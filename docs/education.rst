@@ -24,6 +24,8 @@ Udacity
 =======
 `Udacity <https://www.udacity.com/>`_ is an online education provider widely recognized by IT. Nanodegree course material is developed in conjunction with companies such as Google, IBM, AWS, and Lyft.
 
+.. _edu-fullstack:
+
 Full Stack Web Developer Nanodegree
 -----------------------------------
 | 12/2018
@@ -37,6 +39,8 @@ Projects:
 #.  `Item Catalog Application <https://github.com/aimeeu/Udacity-FullStackWebDeveloper/tree/master/Project04-ItemCatalogWebApp>`_: provides a list of items within a variety of categories as well as a user registration and authentication system; registered users have the ability to post, edit and delete their own items; docs in reStructuredText
 #.  `Neighborhood Map <https://github.com/aimeeu/Udacity-FullStackWebDeveloper/tree/master/Project05-NeighborhoodMap>`_: single-page application featuring a map of a neighborhood. Functionality includes map markers to identify locations, a search function to easily discover these locations, and a listview to support simple browsing of all locations; uses Google Maps and Foursquare APIs; docs in reStructuredText
 #.  `Linux Server Config <https://github.com/aimeeu/Udacity-FullStackWebDeveloper/tree/master/Project06-LinuxServerConfig>`_: deploy Item Catalog in an AWS Lightsail environment; docs in Markdown
+
+.. _edu-ai:
 
 AI Programming with Python Nanodegree
 -------------------------------------
