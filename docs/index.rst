@@ -35,6 +35,12 @@ Contributed to:
 - OPNFV Copper, Models, VES, Releng
 - Acumos Docs, Integration & Test
 
+Current activities:
+
+- Blockchain nanodegree (Udacity)
+- Converting this site to Hugo/Markdown
+- Catching up on long overdue yard-and-housework
+- Contemplating what kind of work I'd like to do for the next 15 years
 
 .. toctree::
    :maxdepth: 1
