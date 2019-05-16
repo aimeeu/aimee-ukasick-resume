@@ -42,7 +42,7 @@ My OS of choice is Ubuntu Linux because it's FOSS and the most developer-friendl
 
 2019 2Q goal: learning Hugo web content framework
 
-Spinx Themes
+Sphinx Themes
 ------------
 These days, all themes should be mobile-friendly. I admit I am partial to themes with an expandable left menu section. For sites without several heading levels in one or more pages, I like the Spinx Bootstrap Theme.
 
