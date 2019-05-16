@@ -29,19 +29,20 @@ Collaborating Globally | Bridging Gaps | Spearheading Change | Driving Success i
 
 Individual member of the `Open Source Initiative <https://opensource.org/>`_, the `Linux Foundation <https://www.linuxfoundation.org/>`_, and the `OpenStack Foundation <https://www.openstack.org/foundation/>`_.
 
-Contributed to:
+Open Source Contributions:
 
-- OpenStack Congress, Murano
-- OPNFV Copper, Models, VES, Releng
-- Acumos Docs, Integration & Test
+- `OpenStack <https://www.openstack.org>`_ Congress, Murano
+- `OPNFV <https://www.opnfv.org/>`_ Copper, Models, VES, Releng and wiki content
+- `Acumos <https://www.acumos.org/>`_ Docs, Integration & Test, and wiki content
 
-Current activities:
+Current Activities:
 
 - Blockchain nanodegree (Udacity)
 - Converting this site to Hugo/Markdown
 - Catching up on long overdue yard-and-housework
 - Contemplating what kind of work I'd like to do for the next 15 years
 - Spending more time with my dogs - Pip (13), Dealio (9), and Bond (4)
+- Enjoying nature, paddling, and fishing
 
 .. toctree::
    :maxdepth: 1
