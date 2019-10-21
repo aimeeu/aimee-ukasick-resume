@@ -82,9 +82,9 @@ Kubernetes
 ++++++++++
 | **Markup**: Markdown with Hugo shortcodes
 | **Tools**: Hugo
-| _`Kubernetes Docs <https://kubernetes.io/docs/home/>`_ | _`Kubernetes Docs GitHub <https://github.com/kubernetes/website>`_ (@aimeeu)
+| `Kubernetes Docs <https://kubernetes.io/docs/home/>`_ | `Kubernetes Docs GitHub <https://github.com/kubernetes/website>`_ (@aimeeu)
 
-I contribute to Kubernetes documentation under contract for the _`Cloud Native Computing Foundation <https://www.cncf.io/>`_.
+I contribute to Kubernetes documentation under contract for the `Cloud Native Computing Foundation <https://www.cncf.io/>`_.
 
 - Triage new issues
 - Create new content for the _Contribute_ section of the docs
@@ -96,7 +96,7 @@ Acumos
 ++++++
 | **Markup**: reStructuredText
 | **Tools**: Sphinx, Pandoc
-| `Acumos Docs <https://docs.acumos.org/en/athena/>`_ | _`Acumos Gerrit <https://gerrit.acumos.org>`_ |  `Acumos GitHub <https://github.com/acumos/documentation>`_ | `Acumos Wiki <https://wiki.acumos.org>`_
+| `Acumos Docs <https://docs.acumos.org/en/athena/>`_ | `Acumos Gerrit <https://gerrit.acumos.org>`_ |  `Acumos GitHub <https://github.com/acumos/documentation>`_ | `Acumos Wiki <https://wiki.acumos.org>`_
 
 My involvement with Acumos documentation started with a phone call from JM, my AVP, asking me to take a look at the Acumos project's docs and tell him what was missing. This was two weeks prior to the project's launch as an open source project in the Linux Foundation. An automated documentation project had been created using Sphinx, with submodules linking to most of the component repositories. However, developers hadn't been given guidelines on creating documentation: file structure, naming, content, reStructuredText. In addition, most of the end-user documentation was non-existent, and nobody had even started pulling all the docs together into a coherent, user-friendly format. So I hatched a plan:
 
