@@ -36,7 +36,7 @@ Content Tools
 My OS of choice is Ubuntu Linux because it's FOSS and the most developer-friendly OS with which I've interacted.
 
 - **rST Editor**: `ReText <https://github.com/retext-project/retext>`_
-- **Markdown Editors**: `Atom <https://atom.io/>`_, `Visual Studio Code <https://code.visualstudio.com/>`_, `Typora <https://typora.io/>`_
+- **Markdown Editors**: `Atom <https://atom.io/>`_, `Visual Studio Code <https://code.visualstudio.com/>`_
 - **Screenshots**: `Shutter <https://launchpad.net/shutter>`_
 - **Automation**: `Sphinx <http://sphinx-doc.org/>`_
 
