@@ -81,7 +81,7 @@ Publicly Available Docs
 Kubernetes
 ++++++++++
 | **Markup**: Markdown with Hugo shortcodes
-| **Tools**: _`Hugo <https://gohugo.io/>`_, Google Analytics, Survey Monkey
+| **Tools**: `Hugo <https://gohugo.io/>`_, Google Analytics, Survey Monkey
 | `Kubernetes Docs <https://kubernetes.io/docs/home/>`_ | `Kubernetes Docs GitHub <https://github.com/kubernetes/website>`_ (@aimeeu)
 
 I contribute to Kubernetes documentation under contract for the `Cloud Native Computing Foundation <https://www.cncf.io/>`_.
