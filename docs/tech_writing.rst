@@ -81,16 +81,19 @@ Publicly Available Docs
 Kubernetes
 ++++++++++
 | **Markup**: Markdown with Hugo shortcodes
-| **Tools**: Hugo
+| **Tools**: _`Hugo <https://gohugo.io/>`_, Google Analytics, Survey Monkey
 | `Kubernetes Docs <https://kubernetes.io/docs/home/>`_ | `Kubernetes Docs GitHub <https://github.com/kubernetes/website>`_ (@aimeeu)
 
 I contribute to Kubernetes documentation under contract for the `Cloud Native Computing Foundation <https://www.cncf.io/>`_.
 
-- Triage new issues
+- Triage documentation issues
+- Analyze documentation using a variety of resources to determine gaps and areas for improvement
 - Create new content for the _Contribute_ section of the docs
 - Analyze docs for vendor and dual-sourced content; spearhead removal
 - Investigate reference documentation generation; clarify docs, update Python script
 - Review pull requests
+- Create user survey, collate results, write blog post
+
 
 Acumos
 ++++++
