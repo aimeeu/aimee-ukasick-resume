@@ -74,7 +74,8 @@ Kubernetes
 I contribute to Kubernetes documentation under contract for the `Cloud Native Computing Foundation <https://www.cncf.io/>`_.
 
 My Issues: `kubernetes/website <https://github.com/kubernetes/website/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3Aaimeeu>`_ 
-| My Pull Requests: `kubernetes/website <https://github.com/kubernetes/website/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Aaimeeu+>`_, `kubernetes-sigs/reference-docs <https://github.com/kubernetes-sigs/reference-docs/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Aaimeeu>`_, `kubernetes/community <https://github.com/kubernetes/community/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Aaimeeu>`_
+
+My Pull Requests: `kubernetes/website <https://github.com/kubernetes/website/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Aaimeeu+>`_, `kubernetes-sigs/reference-docs <https://github.com/kubernetes-sigs/reference-docs/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Aaimeeu>`_, `kubernetes/community <https://github.com/kubernetes/community/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Aaimeeu>`_
 
 - Triage documentation issues
 - Analyze documentation using a variety of resources to determine gaps and areas for improvement
