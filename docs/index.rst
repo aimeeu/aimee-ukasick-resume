@@ -54,8 +54,8 @@ Current Activities:
    :maxdepth: 1
    :caption: The Resumes:
 
-   _`Short <https://www.dropbox.com/s/fi4zd69i902x9lx/Ukasick.Aimee.Resume.ShortForm.pdf?dl=0>`_ (PDF)
-   _`Detailed <https://www.dropbox.com/s/mlja3y9v61n4b8s/Ukasick.Aimee.Resume.Long.pdf?dl=0>`_ (PDF)
+   `Short <https://www.dropbox.com/s/fi4zd69i902x9lx/Ukasick.Aimee.Resume.ShortForm.pdf?dl=0>`_ (PDF)
+   `Detailed <https://www.dropbox.com/s/mlja3y9v61n4b8s/Ukasick.Aimee.Resume.Long.pdf?dl=0>`_ (PDF)
 
 
 .. toctree::
