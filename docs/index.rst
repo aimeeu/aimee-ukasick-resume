@@ -37,8 +37,8 @@ Open Source Contributions:
 
 - `Kubernetes <https://kubernetes.io/>`_ SIG Docs
 - `Acumos <https://www.acumos.org/>`_ Docs, Integration & Test, and wiki content
-- `OPNFV <https://www.opnfv.org/>`_ Copper, Models, VES, Releng and wiki content
-- `OpenStack <https://www.openstack.org>`_ Congress, Murano
+- `OPNFV <https://www.opnfv.org/>`_ Copper, Docs, Models, VES, Releng and wiki content
+- `OpenStack <https://www.openstack.org>`_ Congress, Docs, Murano
 
 
 Udacity Nanodegrees:
