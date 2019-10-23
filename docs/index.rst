@@ -32,9 +32,11 @@ Individual member of the `Open Source Initiative <https://opensource.org/>`_, th
 
 Open Source Contributions:
 
-- `OpenStack <https://www.openstack.org>`_ Congress, Murano
-- `OPNFV <https://www.opnfv.org/>`_ Copper, Models, VES, Releng and wiki content
+- _`Kubernetes <https://kubernetes.io/>`_ SIG Docs
 - `Acumos <https://www.acumos.org/>`_ Docs, Integration & Test, and wiki content
+- `OPNFV <https://www.opnfv.org/>`_ Copper, Models, VES, Releng and wiki content
+- `OpenStack <https://www.openstack.org>`_ Congress, Murano
+
 
 Udacity Nanodegrees:
 
@@ -43,9 +45,7 @@ Udacity Nanodegrees:
 
 Current Activities:
 
-- Converting this site to Hugo/Markdown to deploy on GitHub Pages
-- Scrambling to finish Term 01 of Udacity's Blockchain nanodegree
-- Hoping to land my dream Tech Writer job at the `Cloud Native Computing Foundation <https://www.cncf.io/>`_
+- Contributing to Kubernetes SIG Docs under contract for the Cloud Native Computing Foundation
 - Catching up on long overdue house-and-yardwork
 - Spending more time with my dogs - Pip (13), Dealio (9), and Bond (4)
 - Enjoying nature, paddling, and fishing
