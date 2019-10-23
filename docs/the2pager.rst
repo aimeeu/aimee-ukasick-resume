@@ -20,10 +20,22 @@
 The Two-Page Resume
 ===================
 
-Highly motivated and successful self-starter with software development and technical writing experience in a variety of languages and roles.  Possesses a combination of analytical and leadership skills, with excellent organizational and prioritization abilities. Proven ability to proactively determine course, synthesize common themes across technical areas, pinch hit in a variety of situations, create order from chaos, clarify mud, implement change, exceed targets, and drive results while working with minimal guidance both independently and leading a team (local and distributed).  Expert in cross-cultural communication, cross-functional collaboration, and globally distributed teams. Strong advocate for open source software and active contributor to open source projects in roles from Contributor to Project Team Lead.  Dedicated to lifelong learning and skills enhancement.
+Highly motivated and successful self-starter with  technical writing and software development experience in a variety of roles.  Possesses a combination of analytical and leadership skills, with excellent organizational and prioritization abilities. Proven ability to proactively determine course, synthesize common themes across technical areas, pinch hit in a variety of situations, create order from chaos, clarify mud, implement change, exceed targets, and drive results while working with minimal guidance both independently and leading a team (local and distributed).  Expert in cross-cultural communication, cross-functional collaboration, and globally distributed teams. Strong advocate for open source software and active contributor to open source projects in roles from Contributor to Project Team Lead.  Dedicated to lifelong learning and skills enhancement.
 
 EXPERIENCE
 ==========
+
+Self-Employed
+-------------
+**Technical Contributor to Kubernetes Documentation, 8/2019 – present**
+
+**Contributor to Kubernetes SIG Docs for the Cloud Native Computing Foundation**: create and review Kubernetes documentation submissions;  enhance presentation through creation of Hugo shortcodes; analyze and enhance new contributor documentation; analyze documentation for third-party vendor content and duplicate content, create resolution plan, submit updates; create user survey and analyze results; troubleshoot and resolve technical issues with automated documentation using the Hugo framework; update and test Python script for generating API reference documentation.
+
+- **Projects**: Kubernetes
+- **Languages**: Markdown, Go, Python
+- **Technical Areas**: Kubernetes SIG Docs; Hugo Framework; Google Analytics; Git; GitHub; Ubuntu Linux
+
+:ref:`Details <res-cncf-details>`
 
 AT&T Labs (Network and Research)
 --------------------------------
