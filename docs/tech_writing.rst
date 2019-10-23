@@ -40,18 +40,6 @@ My OS of choice is Ubuntu Linux because it's FOSS and the most developer-friendl
 - **Screenshots**: `Shutter <https://launchpad.net/shutter>`_
 - **Automation**: `Sphinx <http://sphinx-doc.org/>`_, `Hugo <https://gohugo.io/>`_
 
-
-Sphinx Themes
--------------
-These days, all themes should be mobile-friendly. I admit I am partial to themes with an expandable left menu section. For sites without several heading levels in one or more pages, I like the Sphinx Bootstrap Theme.
-
-- `Alabaster <https://github.com/bitprophet/alabaster>`_
-- `Guzzle Sphinx Theme <https://github.com/guzzle/guzzle_sphinx_theme>`_
-- `Sphinx Better Theme <https://sphinx-better-theme.readthedocs.io>`_
-- `Sphinx Bootstrap Theme <http://ryan-roemer.github.io/sphinx-bootstrap-theme/README.html>`_
-- `Sphinx RTD Theme <https://sphinx-rtd-theme.readthedocs.io>`_
-
-
 The Reasons, or Why I Like Tech Writing
 =======================================
 Good documentation is key to an open source project's widespread adoption by
@@ -223,6 +211,15 @@ Useful Guides
 - `Technical Documentation Style Guide - NASA <https://standards.nasa.gov/file/2616/download?token=Xg8ZAkSy>`_ (PDF)
 - `OpenStack Documentation Contributor Guide <https://docs.openstack.org/doc-contrib-guide/index.html>`_
 
+Sphinx Themes
+=============
+These days, all themes should be mobile-friendly. I admit I am partial to themes with an expandable left menu section. For sites without several heading levels in one or more pages, I like the Sphinx Bootstrap Theme.
+
+- `Alabaster <https://github.com/bitprophet/alabaster>`_
+- `Guzzle Sphinx Theme <https://github.com/guzzle/guzzle_sphinx_theme>`_
+- `Sphinx Better Theme <https://sphinx-better-theme.readthedocs.io>`_
+- `Sphinx Bootstrap Theme <http://ryan-roemer.github.io/sphinx-bootstrap-theme/README.html>`_
+- `Sphinx RTD Theme <https://sphinx-rtd-theme.readthedocs.io>`_
 
 Geeky Pet Peeves
 ================
