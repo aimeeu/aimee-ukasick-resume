@@ -30,8 +30,8 @@ Individual member of the `Open Source Initiative <https://opensource.org/>`_, th
 
 Resumes:
 
-   - `Short <https://www.dropbox.com/s/fi4zd69i902x9lx/Ukasick.Aimee.Resume.ShortForm.pdf?dl=0>`_ (PDF)
-   - `Detailed <https://www.dropbox.com/s/mlja3y9v61n4b8s/Ukasick.Aimee.Resume.Long.pdf?dl=0>`_ (PDF)
+- `Short <https://www.dropbox.com/s/fi4zd69i902x9lx/Ukasick.Aimee.Resume.ShortForm.pdf?dl=0>`_ (PDF)
+- `Detailed <https://www.dropbox.com/s/mlja3y9v61n4b8s/Ukasick.Aimee.Resume.Long.pdf?dl=0>`_ (PDF)
 
 Open Source Contributions:
 
