@@ -26,9 +26,12 @@ Collaborating Globally | Bridging Gaps | Spearheading Change | Driving Success i
 
 |EmailLink|_  |LinkedInLink|_  |GithubLink|_  |TwitterLink|_
 
-
-
 Individual member of the `Open Source Initiative <https://opensource.org/>`_, the `Linux Foundation <https://www.linuxfoundation.org/>`_, and the `OpenStack Foundation <https://www.openstack.org/foundation/>`_.
+
+Resumes:
+
+   - `Short <https://www.dropbox.com/s/fi4zd69i902x9lx/Ukasick.Aimee.Resume.ShortForm.pdf?dl=0>`_ (PDF)
+   - `Detailed <https://www.dropbox.com/s/mlja3y9v61n4b8s/Ukasick.Aimee.Resume.Long.pdf?dl=0>`_ (PDF)
 
 Open Source Contributions:
 
@@ -43,20 +46,13 @@ Udacity Nanodegrees:
 - :ref:`Full Stack Web Developer <edu-fullstack>` (12/2019)
 - :ref:`AI Programming with Python <edu-ai>` (6/2018)
 
+
 Current Activities:
 
 - Contributing to Kubernetes SIG Docs under contract for the Cloud Native Computing Foundation
 - Catching up on long overdue house-and-yardwork
 - Spending more time with my dogs - Pip (13), Dealio (9), and Bond (4)
 - Enjoying nature, paddling, and fishing
-
-.. toctree::
-   :maxdepth: 1
-   :caption: The Resumes:
-
-   `Short <https://www.dropbox.com/s/fi4zd69i902x9lx/Ukasick.Aimee.Resume.ShortForm.pdf?dl=0>`_ (PDF)
-   `Detailed <https://www.dropbox.com/s/mlja3y9v61n4b8s/Ukasick.Aimee.Resume.Long.pdf?dl=0>`_ (PDF)
-
 
 .. toctree::
    :maxdepth: 1
