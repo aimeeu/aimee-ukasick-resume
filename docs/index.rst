@@ -32,7 +32,7 @@ Individual member of the `Open Source Initiative <https://opensource.org/>`_, th
 
 Open Source Contributions:
 
-- _`Kubernetes <https://kubernetes.io/>`_ SIG Docs
+- `Kubernetes <https://kubernetes.io/>`_ SIG Docs
 - `Acumos <https://www.acumos.org/>`_ Docs, Integration & Test, and wiki content
 - `OPNFV <https://www.opnfv.org/>`_ Copper, Models, VES, Releng and wiki content
 - `OpenStack <https://www.openstack.org>`_ Congress, Murano
@@ -54,8 +54,8 @@ Current Activities:
    :maxdepth: 1
    :caption: The Resumes:
 
-   the2pager.rst
-   resume_detailed.rst
+   _`Short <https://www.dropbox.com/s/fi4zd69i902x9lx/Ukasick.Aimee.Resume.ShortForm.pdf?dl=0>`_ (PDF)
+   _`Detailed <https://www.dropbox.com/s/mlja3y9v61n4b8s/Ukasick.Aimee.Resume.Long.pdf?dl=0>`_ (PDF)
 
 
 .. toctree::
