@@ -38,9 +38,8 @@ My OS of choice is Ubuntu Linux because it's FOSS and the most developer-friendl
 - **rST Editor**: `ReText <https://github.com/retext-project/retext>`_
 - **Markdown Editors**: `Atom <https://atom.io/>`_, `Visual Studio Code <https://code.visualstudio.com/>`_
 - **Screenshots**: `Shutter <https://launchpad.net/shutter>`_
-- **Automation**: `Sphinx <http://sphinx-doc.org/>`_
+- **Automation**: `Sphinx <http://sphinx-doc.org/>`_, `Hugo <https://gohugo.io/>`_
 
-2019 2Q goal: learning Hugo web content framework
 
 Sphinx Themes
 -------------
@@ -85,6 +84,9 @@ Kubernetes
 | `Kubernetes Docs <https://kubernetes.io/docs/home/>`_ | `Kubernetes Docs GitHub <https://github.com/kubernetes/website>`_ (@aimeeu)
 
 I contribute to Kubernetes documentation under contract for the `Cloud Native Computing Foundation <https://www.cncf.io/>`_.
+
+My Issues: _`kubernetes/website <https://github.com/kubernetes/website/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3Aaimeeu>`_ 
+|My Pull Requests: _`kubernetes/website <https://github.com/kubernetes/website/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Aaimeeu+>`_, _`kubernetes-sigs/reference-docs <https://github.com/kubernetes-sigs/reference-docs/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Aaimeeu>`_, _`kubernetes/community <https://github.com/kubernetes/community/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Aaimeeu>`_
 
 - Triage documentation issues
 - Analyze documentation using a variety of resources to determine gaps and areas for improvement
